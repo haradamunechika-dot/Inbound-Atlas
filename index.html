@@ -2024,13 +2024,13 @@ dash.calc('news_counts', {
   const cumLabel = (ym, b) => {
     if (!ym) return '—';
     const { y, m } = parts(ym);
-    if (b === 'fy') { const fy = m >= 4 ? y : y - 1; return `${fy}年度（${fy}年4月〜${y}年${m}月）`; }
+    if (b === 'fy') { const fy = m >= 4 ? y : y - 1; return m === 4 ? `${fy}年度（${fy}年4月）` : `${fy}年度（${fy}年4月〜${y}年${m}月）`; }
     return m === 1 ? `${y}年1月` : `${y}年1〜${m}月`;
   };
   const cumShort = (ym, b) => {
     const { y, m } = parts(ym);
-    if (b === 'fy') { const fy = m >= 4 ? y : y - 1; return `${fy}年度 4〜${m}月`; }
-    return `${y}年1〜${m}月`;
+    if (b === 'fy') { const fy = m >= 4 ? y : y - 1; return m === 4 ? `${fy}年度 4月` : `${fy}年度 4〜${m}月`; }
+    return m === 1 ? `${y}年1月` : `${y}年1〜${m}月`;
   };
   const pyLabel = (ym, b) => {
     if (!ym) return '—';
