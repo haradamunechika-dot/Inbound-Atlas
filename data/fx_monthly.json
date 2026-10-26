@@ -1,0 +1,938 @@
+[
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 147.99
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 173.55
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 199.81
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 97.48
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 19.01
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 115.16
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 20.77
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2025-09",
+"yen_per_unit": 4.62
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2025-09",
+"yen_per_unit": 10.64
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 151.3
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 176.22
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 202.29
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 99.1
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 19.46
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 116.83
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 21.23
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2025-10",
+"yen_per_unit": 4.65
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2025-10",
+"yen_per_unit": 10.66
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 155.2
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 179.36
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 203.83
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 100.96
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 19.96
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 119.1
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 21.83
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2025-11",
+"yen_per_unit": 4.79
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2025-11",
+"yen_per_unit": 10.64
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 155.95
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 182.58
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 208.71
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 103.52
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 20.04
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 120.78
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 22.14
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2025-12",
+"yen_per_unit": 4.94
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2025-12",
+"yen_per_unit": 10.64
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 156.78
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 184.03
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 212.06
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 106.39
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 20.11
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 122.46
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 22.51
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-01",
+"yen_per_unit": 5.02
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-01",
+"yen_per_unit": 10.77
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 155.13
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 183.4
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 210.81
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 109.35
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 19.85
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 122.41
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 22.46
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-02",
+"yen_per_unit": 4.96
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-02",
+"yen_per_unit": 10.72
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 158.68
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 183.52
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 211.82
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 111.39
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 20.28
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 124.03
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 23
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-03",
+"yen_per_unit": 4.93
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-03",
+"yen_per_unit": 10.67
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 159.33
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 186.17
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 214.02
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 112.74
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 20.34
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 124.78
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 23.29
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-04",
+"yen_per_unit": 4.94
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-04",
+"yen_per_unit": 10.74
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 158.38
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 184.86
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 213.53
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 113.73
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 20.22
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 124.18
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 23.3
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-05",
+"yen_per_unit": 4.87
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-05",
+"yen_per_unit": 10.62
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 160.77
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 185.14
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 214.35
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 113.02
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 20.51
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 124.83
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 23.71
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-06",
+"yen_per_unit": 4.89
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-06",
+"yen_per_unit": 10.52
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 162.6
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 185.67
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 217.44
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 113.2
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 20.74
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 125.89
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 23.98
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-07",
+"yen_per_unit": 4.86
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-07",
+"yen_per_unit": 10.89
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 158.74
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 184.02
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 214.98
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 112.7
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 20.24
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 124.37
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 23.56
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-08",
+"yen_per_unit": 4.81
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-08",
+"yen_per_unit": 11.32
+},
+{
+"currency": "USD",
+"currency_name": "米ドル",
+"market": "米国",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 156.42
+},
+{
+"currency": "EUR",
+"currency_name": "ユーロ",
+"market": "欧州（独仏伊西など）",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 180.26
+},
+{
+"currency": "GBP",
+"currency_name": "英ポンド",
+"market": "英国",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 210.03
+},
+{
+"currency": "AUD",
+"currency_name": "豪ドル",
+"market": "オーストラリア",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 111.44
+},
+{
+"currency": "HKD",
+"currency_name": "香港ドル",
+"market": "香港",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 19.94
+},
+{
+"currency": "SGD",
+"currency_name": "シンガポール・ドル",
+"market": "シンガポール",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 122.94
+},
+{
+"currency": "CNY",
+"currency_name": "人民元",
+"market": "中国",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 23.3
+},
+{
+"currency": "THB",
+"currency_name": "タイ・バーツ",
+"market": "タイ",
+"unit": 1,
+"ym": "2026-09",
+"yen_per_unit": 4.71
+},
+{
+"currency": "KRW",
+"currency_name": "韓国ウォン",
+"market": "韓国",
+"unit": 100,
+"ym": "2026-09",
+"yen_per_unit": 11.52
+}
+]
