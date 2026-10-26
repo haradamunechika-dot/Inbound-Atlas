@@ -1,0 +1,62 @@
+name: ニュース・為替の自動更新と公開
+
+on:
+  schedule:
+    # 日本時間 6:00・12:00・18:00（GitHub の cron は UTC。混雑時は数分〜数十分遅れることがある）
+    - cron: '0 21,3,9 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: ニュースと為替を取得（定時・手動実行のとき）
+        if: github.event_name != 'push'
+        run: python scripts/update_feeds.py
+      - name: 変更があればコミット
+        if: github.event_name != 'push'
+        run: |
+          if git diff --quiet -- data; then
+            echo "変更なし"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "ニュース・為替を自動更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）"
+          git push
+      - name: 公開するファイルをまとめる
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp -r data _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
