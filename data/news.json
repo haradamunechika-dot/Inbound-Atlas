@@ -1,8 +1,176 @@
 {
- "updated_at": "2026-11-22T19:57:20+09:00",
- "updated_label": "2026年11月22日 19:57",
+ "updated_at": "2026-11-23T10:28:56+09:00",
+ "updated_label": "2026年11月23日 10:28",
  "source": "Googleニュース（キーワード検索のRSS）",
  "rows": [
+  {
+   "date": "2026-11-23",
+   "title": "滋賀で始まる「大型観光企画」の展望は◇JR支社長が語る「滋賀の旅」の魅力◇京都と抱き合わせでいい",
+   "source": "京都新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EYzdNTklMUHdrWTFqUU1wYUFCSWFNVTJKRG9SQU5CbnlOVWFENE1qd3gwX0JseEtOc3hfVXN0ekJTNzZEbWY2NkF6OEpYYnN0VGdUazgwWG0?oc=5",
+   "sentiment": null,
+   "category": "交通",
+   "prefs": "滋賀県・京都府",
+   "search_prefs": "滋賀県・山口県",
+   "scope": "regional",
+   "id": 1
+  },
+  {
+   "date": "2026-11-23",
+   "title": "｢ユニクロ服にさらにお金をかける！？｣ 若者､推し活勢､インバウンド客も注目《700円からの刺繍》が映す\"消費の変化\"",
+   "source": "Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjTWdHYVVtNENiaFJRZG5pQ1ZhdnlaWlJvQlp3UlZFSUtDT21vbnlBbmpLX2NhbzN3eDBBeTVtWDZBdzRfV09ubkF3cFJEVmlJR2hzZDJrbTNYNko0TnhZRkI2N0pRZHdBdmRQNE13RzA?oc=5",
+   "sentiment": null,
+   "category": "消費",
+   "prefs": "",
+   "search_prefs": "山口県",
+   "scope": "regional",
+   "id": 2
+  },
+  {
+   "date": "2026-11-23",
+   "title": "「我慢の限界でした」温泉で騒ぐ観光客に地元民がウンザリ。スタッフに注意され謝罪するまで／日本に温泉はどれくらいあるのか",
+   "source": "ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUTVZSjgxLXRiWlltX3JxNzZLY20weV9qU3RzZjJPMmIya2l5RmVLYlZ1X3JkM0pCai1udDdlYVZOQ01fa1kyeUk4Zm55cTl4ZzYybmJWazVVeHRQNHNsdExoSGhwM1VvZjd5dV9MRncwNlU?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "長野県",
+   "scope": "regional",
+   "id": 3
+  },
+  {
+   "date": "2026-11-23",
+   "title": "「我慢の限界でした」温泉で騒ぐ観光客に地元民がウンザリ。スタッフに注意され謝罪するまで／日本に温泉はどれくらいあるのか調べてみた",
+   "source": "Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5dFRpN3VOOEdTajFZSHE2QWZ1d2Jib3h2cWxaQ0JJcXl3N3g5d1dac0dDcFZBMWdYc08zRm13LWZueVZReXRNMlpqcmpwa0p3QzdPZExVMEdybVNLdmk0ODNmd21wTDNMM2lEQWNuWdIBb0FVX3lxTFA5dFRpN3VOOEdTajFZSHE2QWZ1d2Jib3h2cWxaQ0JJcXl3N3g5d1dac0dDcFZBMWdYc08zRm13LWZueVZReXRNMlpqcmpwa0p3QzdPZExVMEdybVNLdmk0ODNmd21wTDNMM2lEQWNuWQ?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "鹿児島県",
+   "scope": "regional",
+   "id": 4
+  },
+  {
+   "date": "2026-11-23",
+   "title": "画像2 / 5＞連載第10回「大阪インバウンド最前線」外国人観光客と変化する新世界を語る！近藤正孝さんインタビュー",
+   "source": "ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwOUxabEhZUDV0UlR3N01IZWMzalhOdjFBeDhEbDRWdE0temRVY3MyYnpja2VCdjhSTEtDNjYydGpBQ3dCTFBma243YzBOb09MNkt6bWpxUmlvX052Y19KZjZ6bFpKaENGTkFDWFN6Q0xEM2MtZ2ZGVFctcw?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "大阪府",
+   "search_prefs": "秋田県・山形県・神奈川県・愛知県・大阪府・岡山県・高知県・福岡県・宮崎県・鹿児島県",
+   "scope": "regional",
+   "id": 5
+  },
+  {
+   "date": "2026-11-23",
+   "title": "温泉の湯けむりの先に、知らない日本がある。由布・別府が導く、訪日客の冬旅",
+   "source": "finders.me",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaOE1sTjRSZ1ZJNFB6bFQtR3k0N2JNRkR2ejdvaGlWVVFYYWp0ZHdrOWt4eER1TFZaQlhOQ1Jpa051TkZFek5mSzIweEtUdw?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "神奈川県・新潟県",
+   "scope": "regional",
+   "id": 6
+  },
+  {
+   "date": "2026-11-23",
+   "title": "「ユニクロ服にさらにお金をかける!?」 若者、推し活勢、インバウンド客も注目《700円からの刺繍》が映す“消費の変化”",
+   "source": "Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2RLeEpGQXByb2VJWjdTNkllYWxkVHJ5MUg5dGlsMFlPcVJaSS02bnV2TXVyQkdUVXlnREhMLXdoZWVrdVpIdHVRTjBPeGlrdDFsNnFYOEpGbFJaYW1WWktBQ2M4eTM3dDlRVzFFNjk4MXhIY0V4c1Fya0pzbk1KUUxGcHpQd0Mt?oc=5",
+   "sentiment": null,
+   "category": "消費",
+   "prefs": "",
+   "search_prefs": "山口県",
+   "scope": "regional",
+   "id": 7
+  },
+  {
+   "date": "2026-11-23",
+   "title": "由布・別府が訪日客に人気 高山・箱根・湯沢もTOP5（FINDERS）",
+   "source": "Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PZmdsSWxQVUV3cVJ0aVlkY3lpZllDNTk3SHRnXzF1Q29NV0txcEN4ZC1PZzA0V2VsT2dVeGhqMURiLXpPYVZycEwwd0lDZ3FkZ3c1YWdOMklYTTgzcVg4eldvdk1QN2xsM2I5ZmY1bE1aOXI0Vzg0MTYybzdQZjA?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "大分県",
+   "scope": "regional",
+   "id": 8
+  },
+  {
+   "date": "2026-11-23",
+   "title": "ネットのユーチューブを見ると、観光客が激…",
+   "source": "奈良新聞",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aa0lyQnJUMkw3TERIb0d2bGFWS2JpUkZvY0owc0RsT3RSZjd2bWswbHdKQWp1ZnJrTGROUU5VZnlZQ1M4eUpFZ2ZVMEhUbnVWNzlUN2kwZ3NqTE5jVEM4?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "奈良県",
+   "scope": "regional",
+   "id": 9
+  },
+  {
+   "date": "2026-11-23",
+   "title": "卓見異見／インバウンド観光 東京女子大学現代教養学部経済経営学科教授 矢ケ崎紀子",
+   "source": "日刊工業新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LMlg4aE14bHJZYzFNbnlxYnJzWTZqZkloZk9ISG02a1ltSHl5TEYtcmZsdm5ZN2dpek9XbkM4Wmg5NWFuVDE4amNnZWNjbkttZEgyQkVIdVk?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "東京都",
+   "search_prefs": "",
+   "scope": "regional",
+   "id": 10
+  },
+  {
+   "date": "2026-11-23",
+   "title": "京都市と亀岡市を結ぶ列車に世界中から観光客 明治時代のトンネル、鉄道橋は謎と歴史ロマンたっぷり",
+   "source": "京都新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KSVEtWnVOaEZkcEt3NXV3aVAwNERMc3ZHcThDNUFwLU9oY3loSzJXMXgwel9lVW9JQ0dPQi1mbHZrYnpxalBBdmxzWHYycGFCeWZnLUt0SGw?oc=5",
+   "sentiment": null,
+   "category": "交通",
+   "prefs": "京都府",
+   "search_prefs": "京都府",
+   "scope": "regional",
+   "id": 11
+  },
+  {
+   "date": "2026-11-22",
+   "title": "直島の魅力、英語で紹介　地元小中生、訪日客に｜四国新聞WEB朝刊",
+   "source": "四国新聞",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wRUw5X3QxVTRFZ3NMM0V3aXdfUl9MZHR5TmN2LW1EVlBKVkc2eXpXVWV3eldyR3FGeUJrOGltVXNCQUJ3LXA5cTgyVm5BbnJnMXV1MEVWUmhQTFlXYXNtMzJac3JDQ0FsdE9PcWZjTUxkZWZRYmhYemRRNkPSAXxBVV95cUxNcEVMOV90MVU0RWdzTDNFd2l3X1JfTGR0eU5jdi1tRFZQSlZHNnl6V1Vld3pXckdxRnlCazhpbVVzQkFCdy1wOXE4MlZuQW5yZzF1dTBFVlJoUExZV2FzbTMyWnNyQ0NBbHRPT3FmY01MZGVmUWJoWHpkUTZD?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "",
+   "scope": "national",
+   "id": 12
+  },
+  {
+   "date": "2026-11-22",
+   "title": "岡山城 「日本１００名城」人気ランキング９位 アジア圏訪日客対象 中四国地方トップ",
+   "source": "山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzTWVseDc0SE9mRW1QQlNjamo4aE1tc1JfdmtCdDVoLXVUVUk0THVPUlo2bUdxZHZzZnJ1Qmp0NzNKMEJ2SllSNTl5ajV4bE5MOVE?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "岡山県",
+   "search_prefs": "岡山県",
+   "scope": "regional",
+   "id": 13
+  },
+  {
+   "date": "2026-11-22",
+   "title": "電気もなく「真っ暗！」大雪で孤立したホテルで 福島・北塩原村の大雪被害：ニュース",
+   "source": "FTV 福島テレビ",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wY0Mxek5lVFFqbjVfMXNtM0piTVZYSWQ0b0syNldyYk9ldV9zUjVkc1o1b3F0YW9fWF9tRnh2SVpoVHBZa1RqanhYcXBYc0IybjlTRDZkRGtrd0FOYlpSZGZRb3RkY0VtSnhPNVk0cDhMbkFTTnNmZmRR?oc=5",
+   "sentiment": null,
+   "category": "宿泊",
+   "prefs": "福島県",
+   "search_prefs": "千葉県",
+   "scope": "regional",
+   "id": 14
+  },
   {
    "date": "2026-11-22",
    "title": "ノートを片手に琴平の知られざる「B面」を歩く「ことウラさんぽ」のモニターツアー実施 香川",
@@ -13,7 +181,19 @@
    "prefs": "香川県",
    "search_prefs": "香川県",
    "scope": "regional",
-   "id": 1
+   "id": 15
+  },
+  {
+   "date": "2026-11-22",
+   "title": "高知城オータムフェスティバル　県内外・海外からの観光客でにぎわう",
+   "source": "Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdWFxeUhmU2tJTVI4aDhaTS1Dd1RjdVBZUUtzOW9XMmNaWmF5b1k0MDlZVDJIbFlZZXFnZFZ0bHRBM0d2aDcyMVd3NGRuUmpvNWo4VGxRbDNnX2VlRUdJU2czT3d0Z24tZHZWVlJmZw?oc=5",
+   "sentiment": null,
+   "category": "イベント",
+   "prefs": "高知県",
+   "search_prefs": "青森県・山形県・埼玉県・福井県・静岡県・兵庫県",
+   "scope": "regional",
+   "id": 16
   },
   {
    "date": "2026-11-22",
@@ -25,19 +205,19 @@
    "prefs": "高知県",
    "search_prefs": "高知県",
    "scope": "regional",
-   "id": 2
+   "id": 17
   },
   {
    "date": "2026-11-22",
-   "title": "高知城オータムフェスティバル　県内外・海外からの観光客でにぎわう",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRnRuQ3dlMG1BWUhMVjFZbjBVV0V3QW8yRXAyb3dXOFlmYjRWalN0ZGM2RmxHMm1ZMUFibjczYXppOW9YbG9VeUdXOHRPaWlzSXdMcmtnMXBqTHVMaUkycVl1REhDVGZXVmdKem9KRmgtLUctcHNVNjdKaTA5TUNibVRiZVHSAXdBVV95cUxNODQxSWlwTUpUekQ0Qzl0bGRONFdIV2NPdXRlc3I5d09ZcVFRenB2UHNWZTBzNmpPa1pXaGpWek1yVkJ5NVo5cDdWdU1hM1VEYXlfTEpUNjI5WEdfSExmVUNjSktzazRpLTUtanR1T2djUXdTQzByTQ?oc=5",
+   "title": "高知城オータムフェスティバル 県内外・海外からの観光客でにぎわう (テレビ高知)",
+   "source": "Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2lsOXZlMVFlNm41dF9sZzJlQmRfTktacFo5UjZwSVZsTHJEODVkaHJOZ3JwLS16ODFyODFPTjVjdllKUzhGYXRROENhN2RPcnN3Q0EwYVBXOU1tc0dJbTFfcnpkNUhwWUo2YldPdmRQNXJLMF9HdUdZdUVsYUJTQVZaMXVfX3R5WHdoWENn?oc=5",
    "sentiment": null,
    "category": "イベント",
    "prefs": "高知県",
-   "search_prefs": "青森県・岩手県・福井県・静岡県・兵庫県",
+   "search_prefs": "高知県",
    "scope": "regional",
-   "id": 3
+   "id": 18
   },
   {
    "date": "2026-11-22",
@@ -49,7 +229,7 @@
    "prefs": "高知県",
    "search_prefs": "高知県",
    "scope": "regional",
-   "id": 4
+   "id": 19
   },
   {
    "date": "2026-11-22",
@@ -61,7 +241,7 @@
    "prefs": "",
    "search_prefs": "宮城県・香川県",
    "scope": "regional",
-   "id": 5
+   "id": 20
   },
   {
    "date": "2026-11-22",
@@ -73,7 +253,7 @@
    "prefs": "千葉県",
    "search_prefs": "千葉県",
    "scope": "regional",
-   "id": 6
+   "id": 21
   },
   {
    "date": "2026-11-22",
@@ -85,19 +265,19 @@
    "prefs": "鳥取県",
    "search_prefs": "鳥取県・高知県",
    "scope": "regional",
-   "id": 7
+   "id": 22
   },
   {
    "date": "2026-11-22",
    "title": "「飛鳥・藤原の宮都」上空にブルーインパルス、観光客らが歓声…世界文化遺産登録を記念",
-   "source": "読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TaDhGd25WSG5kR09EY190Q0RpNWw4d3pVNlplZXprOXk1RXBiVUQ4MHo0dXN2czgwbGpRNU9Cam5sZ3VZUHZuLUVvZ0ZZTm5sRjFLUWdNQ3ZxX0oxSFRTSjlxZElFQQ?oc=5",
+   "source": "ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0hKSS02N0ltQkcxMmxUZ1pHa2VZdG5uT3hmWUpJYjlaU2p1UG9VVXJPY0duNHdSTm9uVkpYVVVpbHYyMHo3VkRkZ2xSaWlRUmd4aHI4REtZdnF3cHRCVmQ1M0IzUXFvZkJwQUxnUzJlOHExTm91V0lOalpleGFfWVBHRElJcmFUWkHSAY8BQVVfeXFMTzEtSU02TjByeW1PY2h2VlI5VjJZYUtlTzJNMERyMEJ6SmNhNVFOSjhaeUNpbmFFWVB4TmsxVEF4VWxoMDBPVHRFdk1NS2ozZ21ST2xwWHZxNF83em8zX29WLS15VFllTjNVb0sxZlNNTE85NlNWNUFJZkRQUTRpdl9Dc0N5NFpZZ1pWVFpEU3c?oc=5",
    "sentiment": null,
    "category": "体験",
    "prefs": "",
-   "search_prefs": "千葉県・滋賀県・兵庫県・奈良県・福岡県",
+   "search_prefs": "茨城県・千葉県・岐阜県・奈良県・福岡県",
    "scope": "regional",
-   "id": 8
+   "id": 23
   },
   {
    "date": "2026-11-22",
@@ -109,7 +289,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 9
+   "id": 24
   },
   {
    "date": "2026-11-22",
@@ -121,7 +301,7 @@
    "prefs": "",
    "search_prefs": "神奈川県・新潟県",
    "scope": "regional",
-   "id": 10
+   "id": 25
   },
   {
    "date": "2026-11-22",
@@ -131,9 +311,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "福井県",
-   "search_prefs": "青森県・岩手県・石川県・福井県",
+   "search_prefs": "青森県・福井県",
    "scope": "regional",
-   "id": 11
+   "id": 26
   },
   {
    "date": "2026-11-22",
@@ -145,7 +325,7 @@
    "prefs": "福島県",
    "search_prefs": "青森県・福島県・富山県・長野県",
    "scope": "regional",
-   "id": 12
+   "id": 27
   },
   {
    "date": "2026-11-22",
@@ -157,7 +337,7 @@
    "prefs": "福島県",
    "search_prefs": "茨城県",
    "scope": "regional",
-   "id": 13
+   "id": 28
   },
   {
    "date": "2026-11-22",
@@ -167,9 +347,21 @@
    "sentiment": null,
    "category": "安全",
    "prefs": "福島県",
-   "search_prefs": "福島県・鹿児島県",
+   "search_prefs": "福島県・熊本県",
    "scope": "regional",
-   "id": 14
+   "id": 29
+  },
+  {
+   "date": "2026-11-22",
+   "title": "旭山動物園で海外観光客がよく写真を撮っている動物＆スポットって？",
+   "source": "ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJbWF3Vk5wNENEd2plNG5KQ05zUjVmU1k0LVRITzIzdkVMaWE1U3lVa2ZnejVvaXpGSWdOcldjdkZVSlRhN01WU3JJMDl3U2hRX3BDaEhFcVlkZGtraGRKbDRkdUZNVEx0b29qMUp4dW5aaC1kQUZ3S0h2OA?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "愛知県",
+   "scope": "regional",
+   "id": 30
   },
   {
    "date": "2026-11-22",
@@ -181,7 +373,55 @@
    "prefs": "大阪府",
    "search_prefs": "神奈川県・富山県・大阪府・福岡県",
    "scope": "regional",
-   "id": 15
+   "id": 31
+  },
+  {
+   "date": "2026-11-22",
+   "title": "「ミニパトが来るとクモの子を散らしたように逃げる」観光地・金沢にまん延する白タクの手口 「観光専用駐車場に福祉タクシー」",
+   "source": "TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DZnRtT3hqTmloSTFQbHhzMTdrWDYtdEt3X3JwMU13NkViTU1Od1IzNFhGbXhDdHphbzItdnRRNTVudGhGTXJjYkV2ZUxMSnh6bGhSOGR0b3VEbHd1aGFUSlRLMA?oc=5",
+   "sentiment": null,
+   "category": "交通",
+   "prefs": "",
+   "search_prefs": "石川県",
+   "scope": "regional",
+   "id": 32
+  },
+  {
+   "date": "2026-11-22",
+   "title": "画像1 / 5＞連載第8回「大阪インバウンド最前線」道頓堀商店会では、言葉がわからなくても楽しめるミュージカルでおもてなし！",
+   "source": "ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45ckJOYlNGclVScC0wSmphN3MyaXlWU0tzckZGTDBiOTVTQXM4T0dYc1VHVFBJNXhkT0dPSnJaRkN5RGdRYmFDOHFxdzdfTENTb2g5czZKWkZSZkN4a1BtR3pGSm8zRWVJRjF4bWRDaVpZb2k3aGZ5MU1xWQ?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "大阪府",
+   "search_prefs": "大阪府",
+   "scope": "regional",
+   "id": 33
+  },
+  {
+   "date": "2026-11-22",
+   "title": "画像1 / 3＞連載第9回「大阪インバウンド最前線」 グランフロント大阪「ぐるなび情報ラウンジ」村田彰子さんに聞く 外国人が求めるレストラン情報とは？",
+   "source": "ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12M2xvOXJ5UTBic1lJR3VOX2k3SXJwSTFHR1cwTmp6a1V0bnNGU2l0c0tvLTdmc3lhSXpjVi1TaE9XcXFPZGhhd1BtUGxudnNsRXJDZTVGVlA4SVotYUo5VDJZS2FVTk1SMFFnb3dXTThVX3NXSWpoTWVUdw?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "大阪府",
+   "search_prefs": "大阪府・福岡県",
+   "scope": "regional",
+   "id": 34
+  },
+  {
+   "date": "2026-11-22",
+   "title": "外国人観光客の生活を支える、ニセコのコンビニで売れているものとは？",
+   "source": "ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PVzhGVHZ0ek9Ta0s1UHg2MlZyZ1NCeE5rSEhSOVRSYWVxZUQ4VzNtQ1d0YWlQd2RrZDZkNU9BSU5ZUk0tTnpPcllab1JHZXpLbW1lVy1UZ3ltWWpPZXdiTmVXcE9sLXlaX0FQbUx4ZV9pdjZIdE9McjNadw?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "愛知県・福岡県",
+   "scope": "regional",
+   "id": 35
   },
   {
    "date": "2026-11-22",
@@ -193,7 +433,7 @@
    "prefs": "山形県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 16
+   "id": 36
   },
   {
    "date": "2026-11-22",
@@ -205,7 +445,31 @@
    "prefs": "",
    "search_prefs": "山形県",
    "scope": "regional",
-   "id": 17
+   "id": 37
+  },
+  {
+   "date": "2026-11-22",
+   "title": "USJを再建した森岡毅でも2年で撤退…観光地には戻れず､豊洲･晴海にも置いていかれたお台場の\"最大の誤算\" (3ページ目)",
+   "source": "PRESIDENT Online（プレジデントオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fR2xwemppaXdVczdTWUFpbDFkQ0JLOG9Ba19mVkVTR0l2NXBqUmhxTFA5OEh4QWx6RkE2OGxibzZHZzNITktESEVWSkt4ZDM4TFdGa3Rma0w?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "東京都",
+   "scope": "regional",
+   "id": 38
+  },
+  {
+   "date": "2026-11-22",
+   "title": "「一瞬でさらわれちゃう」同じ防波堤で4か月間に8人転落2人死亡 全員が県外客…\"観光客ならでは\"の心理に要注意＝静岡",
+   "source": "ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRBek9HRUJHeDlxOXh6cHRwZWJpQS0xR211YjFiOW9UaUZLQVJ1OGtEcEwtb2t3V2FnTHpyYldFeTFQQmZ0Z21oT2owUDJSTXdUdUxYOUJCNEpBVW1IZTZ2T3MxaW0yRklLclBYZ1NfTXl6cEU2YWRvNlo2aW0wbG9rSXM3eUdYbjhCUGxPT1BNNmFrTkNfQUp5QTByUzh3bV9sVUdWaHQ4RWhRejFZV3Y1U2t4U3lsRkHSAXRBVV95cUxOck81cGlEalFET2dNNFZHRThHOURtbGd4eUYyVFg2M1p6aTFDWG1OU1Z1ZEhsNzBJcl9RSlByNldTVDhqYlByU3Q5TVBhdXVXYUt1UEc2RlVuRXdLNVhJdmsweVdsbkEtMkxlRVM5YWs3VDAwcw?oc=5",
+   "sentiment": null,
+   "category": "安全",
+   "prefs": "静岡県",
+   "search_prefs": "岩手県・静岡県・兵庫県・長崎県",
+   "scope": "regional",
+   "id": 39
   },
   {
    "date": "2026-11-22",
@@ -217,19 +481,43 @@
    "prefs": "静岡県",
    "search_prefs": "静岡県",
    "scope": "regional",
-   "id": 18
+   "id": 40
   },
   {
    "date": "2026-11-22",
-   "title": "「一瞬でさらわれちゃう」同じ防波堤で4か月間に8人転落2人死亡 全員が県外客…\"観光客ならでは\"の心理に要注意＝静岡",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXQWJsZHZCaklEaTFTVkhZVkFYeld3czRzWVBsVnJkZ1R1VnlrS3dUUVIxV1hwQThNN3AyLUJKWGtIWmFLcUVQNTNlaWo4Q2N1dXd0MHZxSUE4azcyY3pHOHl1N1pPUndqYkdpdkFZSdIBdEFVX3lxTE5yTzVwaURqUURPZ000VkdFOEc5RG1sZ3h5RjJUWDYzWnppMUNYbU5TVnVkSGw3MElyX1FKUHI2V1NUOGpiUHJTdDlNUGF1dVdhS3VQRzZGVW5Fd0s1WEl2azB5V2xuQS0yTGVFUzlhazdUMDBz?oc=5",
+   "title": "3連休から始まる「冬の書き入れ時」…日本スキー場開発（6040）が\"インバウンド×雪\"で化ける可能性、半導体ショックと無縁の季節株を今見ておくべき理由｜日本個別株デューデリジェンスセンター",
+   "source": "note",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wMlYtQW5aWF9pZE92Ni1INTRmbWgySkV3d04zZXp1MlJhU1licUdBZjJweWNVRVBMYjJpbzZKVkFPbEFuU2t1Z2ctLTNTV3hqTk5NSlMxNXZsRG8?oc=5",
    "sentiment": null,
-   "category": "安全",
-   "prefs": "静岡県",
-   "search_prefs": "岩手県・静岡県・長崎県",
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "長野県",
    "scope": "regional",
-   "id": 19
+   "id": 41
+  },
+  {
+   "date": "2026-11-22",
+   "title": "「都道府県魅力度ランキング2026」１位は北海道。大阪府・長崎県が躍進。新潟、宮城、高知各県が魅力度とともに観光意欲も上昇 （地域ブランド調査2026より）",
+   "source": "地域ブランドNEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EZGk4bkVKOHFtcE5lZlU3eUFuWHAyTVRjY19vSmc0N0ZHa1p3cFM5NmhBQ0czVVoyNnZ1ajRFd1RNbWQ1RkRERkJXaw?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "北海道・宮城県・新潟県・大阪府・高知県・長崎県",
+   "search_prefs": "宮城県・茨城県・群馬県・埼玉県・高知県・佐賀県・長崎県・宮崎県",
+   "scope": "regional",
+   "id": 42
+  },
+  {
+   "date": "2026-11-22",
+   "title": "【徳島県鳴門市】AI観光案内システムを鳴門駅前観光案内所に導入",
+   "source": "山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qZGdwd2xXRUtuQkRNUkZNSDdLV00xbzZnY19IOXBEWV9fS3lpdC1iQS04bFVnVjU4NDg3dnUyU2FmU2dsVU9wUy1ha0lHZE0yb25sZkNqZjRoUjR1RzVmMFFSSXBMOC1YXzVza2pEbw?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "徳島県",
+   "search_prefs": "徳島県",
+   "scope": "regional",
+   "id": 43
   },
   {
    "date": "2026-11-22",
@@ -241,7 +529,7 @@
    "prefs": "",
    "search_prefs": "新潟県",
    "scope": "regional",
-   "id": 20
+   "id": 44
   },
   {
    "date": "2026-11-22",
@@ -253,7 +541,7 @@
    "prefs": "群馬県",
    "search_prefs": "群馬県",
    "scope": "regional",
-   "id": 21
+   "id": 45
   },
   {
    "date": "2026-11-22",
@@ -265,7 +553,7 @@
    "prefs": "福岡県",
    "search_prefs": "福岡県",
    "scope": "regional",
-   "id": 22
+   "id": 46
   },
   {
    "date": "2026-11-22",
@@ -277,7 +565,7 @@
    "prefs": "福島県",
    "search_prefs": "徳島県",
    "scope": "regional",
-   "id": 23
+   "id": 47
   },
   {
    "date": "2026-11-22",
@@ -289,7 +577,7 @@
    "prefs": "岐阜県",
    "search_prefs": "岐阜県・愛知県",
    "scope": "regional",
-   "id": 24
+   "id": 48
   },
   {
    "date": "2026-11-22",
@@ -301,19 +589,7 @@
    "prefs": "福島県",
    "search_prefs": "岐阜県",
    "scope": "regional",
-   "id": 25
-  },
-  {
-   "date": "2026-11-22",
-   "title": "住民や観光客ら 大雪で孤立状態 福島で1400人超",
-   "source": "沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jTmNRU2dmclNuRnY4bkY1ZUF3N0dYem05RDdBY196eUcwRnVJeEtpc1VYSHNkd2l2UnF1OGl0ZzluYzRWV2cyeVY0eE00VUlpd2t0YVhpajhiQ0UwTEE?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "福島県",
-   "search_prefs": "沖縄県",
-   "scope": "regional",
-   "id": 26
+   "id": 49
   },
   {
    "date": "2026-11-22",
@@ -325,7 +601,7 @@
    "prefs": "",
    "search_prefs": "宮城県・三重県",
    "scope": "regional",
-   "id": 27
+   "id": 50
   },
   {
    "date": "2026-11-22",
@@ -335,9 +611,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "福島県",
-   "search_prefs": "北海道・青森県・岩手県・秋田県・山形県・福島県・福井県・長野県・愛知県・兵庫県・鳥取県・福岡県",
+   "search_prefs": "青森県・岩手県・秋田県・山形県・福島県・新潟県・富山県・福井県・長野県・愛知県・兵庫県・鳥取県・岡山県・沖縄県",
    "scope": "regional",
-   "id": 28
+   "id": 51
   },
   {
    "date": "2026-11-21",
@@ -349,7 +625,7 @@
    "prefs": "岐阜県",
    "search_prefs": "埼玉県・神奈川県・岐阜県",
    "scope": "regional",
-   "id": 29
+   "id": 52
   },
   {
    "date": "2026-11-21",
@@ -359,33 +635,21 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "岐阜県",
-   "search_prefs": "埼玉県・神奈川県・富山県・岐阜県",
+   "search_prefs": "埼玉県・神奈川県・新潟県・富山県・岐阜県",
    "scope": "regional",
-   "id": 30
+   "id": 53
   },
   {
    "date": "2026-11-21",
    "title": "福島・裏磐梯、大雪で住民や観光客孤立　1000人越えか",
    "source": "サンスポ",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vZkdKamViQXc1ZmNCVGRXNEd2Nk56dVcyNkVVa09PVFcwUGJNOXlvbVlEdTdKYV9xV2RzUTRZb09ndGhlQmFQY3REY3BBcURWc19yT0tpTmdRZlJjTUx5YlNqcEJQS0JqR3g1WWRrcTZpeUxabVHSAYoBQVVfeXFMTTdEMU9RbVlDdHJmNEdjN1JDWjluTjhsaXUwZTVFSG4tVDFRSG9LcTFTNk1FQ3RxbnMwZTdwX3ItQzd3NGpkSmFiTEZmU3huVTVEUlZremlUYlIxdDk1aE5wMzlVVzlzaHkzNzZlcGZSQzQtd2hiWkV2ckJJSDZvcUI0eXJNbWNwaFlB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0QxT1FtWUN0cmY0R2M3UkNaOW5OOGxpdTBlNUVIbi1UMVFIb0txMVM2TUVDdHFuczBlN3Bfci1DN3c0amRKYWJMRmZTeG5VNURSVmt6aVRiUjF0OTVoTnAzOVVXOXNoeTM3NmVwZlJDNC13aGJaRXZyQklINm9xQjR5ck1tY3BoWUHSAYoBQVVfeXFMTTdEMU9RbVlDdHJmNEdjN1JDWjluTjhsaXUwZTVFSG4tVDFRSG9LcTFTNk1FQ3RxbnMwZTdwX3ItQzd3NGpkSmFiTEZmU3huVTVEUlZremlUYlIxdDk1aE5wMzlVVzlzaHkzNzZlcGZSQzQtd2hiWkV2ckJJSDZvcUI0eXJNbWNwaFlB?oc=5",
    "sentiment": null,
    "category": "その他",
    "prefs": "福島県",
-   "search_prefs": "茨城県・栃木県・岡山県・宮崎県",
+   "search_prefs": "福島県・山口県・宮崎県",
    "scope": "regional",
-   "id": 31
-  },
-  {
-   "date": "2026-11-21",
-   "title": "養老渓谷温泉郷を核とした広域周遊観光促進調査業務に係る企画提案の公募",
-   "source": "トラベルボイス",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11dlpOdE1HNi1lWDJXekhyMEpNQ0xDTXI0NHV3dnFDc0NqVXBOTm9PQU42R2t0Wk0wOGYtUkN5b1BzNHhzU3BYZFhUQk1NRy0t?oc=5",
-   "sentiment": null,
-   "category": "政策",
-   "prefs": "",
-   "search_prefs": "千葉県",
-   "scope": "regional",
-   "id": 32
+   "id": 54
   },
   {
    "date": "2026-11-21",
@@ -397,19 +661,7 @@
    "prefs": "",
    "search_prefs": "長野県",
    "scope": "regional",
-   "id": 33
-  },
-  {
-   "date": "2026-11-21",
-   "title": "大雪、福島・裏磐梯で千人超孤立 住民や観光客、倒木が国道ふさぐ (共同通信)",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnlUN1ZGNzNxSTNralpZNjY2WElQa0J0UDRpR1o3OXYybzRVaFE1eThxU0ltTnVYU0VBeU1LOU03V084N2I3Z1RxSlpNWlMybUl3X1N2OVZuZXpFMWxvQVVtWXR2dmFKYndjZ1duNllfQnhmYzRFa2thajY1WERnVXhsRWdiaHhSX3N5Y293?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "福島県",
-   "search_prefs": "青森県",
-   "scope": "regional",
-   "id": 34
+   "id": 55
   },
   {
    "date": "2026-11-21",
@@ -421,7 +673,7 @@
    "prefs": "福島県",
    "search_prefs": "青森県",
    "scope": "regional",
-   "id": 35
+   "id": 56
   },
   {
    "date": "2026-11-21",
@@ -433,7 +685,19 @@
    "prefs": "福島県",
    "search_prefs": "和歌山県・熊本県",
    "scope": "regional",
-   "id": 36
+   "id": 57
+  },
+  {
+   "date": "2026-11-21",
+   "title": "青森県五所川原市で雪かきをする人＝21日午前 - 大雪、福島・裏磐梯で千人超孤立 住民や観光客、倒木が国道ふさぐ - 写真・画像(3/4)",
+   "source": "西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uN0I2elpHWFV6NkcyTnpBRmtieUI1Sm1vd0JqXy1LR3FDb1NLY1A3Yi1JYkJsXzhnODRLUGE4OTZEY0V4cnhfVTdpV0V4T2RrREh6V3pMRQ?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "青森県・福島県",
+   "search_prefs": "青森県",
+   "scope": "regional",
+   "id": 58
   },
   {
    "date": "2026-11-21",
@@ -445,7 +709,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 37
+   "id": 59
   },
   {
    "date": "2026-11-21",
@@ -457,19 +721,19 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 38
+   "id": 60
   },
   {
    "date": "2026-11-21",
    "title": "石川県内11地点中9地点で今季最低を記録 輪島・白米千枚田の観光客「冬らしいというか荒々しい感じ」",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWS10bDl3ejhxd0R0eTN3OEViTWp4a2YwZGFTaDNCSVA5dE0ybmVlSGxELWliS2NTZ3NUbk9GWWRpemhOcTFENWxwNkFuZ2FyTTcwLUt5Mjh2SXFDWkpZcFU0dUlhb1NleWwwV0VxdU1lbVdZck9iX0pYQ1lVLVpZVjZHMndPV1hHU2ZpVTNseUFiNTN4c1HSAZsBQVVfeXFMT2R1WVcxaW9QbU5WNGpwY2lpRE96VlBXR3FSUy1iSjhFTEdaTUJ6VnIzdzZqRGpBSTMxYjNMV0puNVpnc3ZBaExOSWlUb1ByNzdOdkRMdUlJYWF4c1dpRzBYdFRLaXVSVTZ3cEFiaFpTVXBJbzV5d2swQ0t5cTdhOW5YVGNiWHRUaWYzaDBQOWtQdHhjRW9wanJuMkk?oc=5",
+   "source": "FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JVUtWUjlqak1CUXJEa25ITVljR3V4OXByendseFVEMzB4Mml2MkV5NHdhZmYwNmhHTmRXUXA1Y1l1OGVWdTFIbFdvQnpVZw?oc=5",
    "sentiment": null,
    "category": "その他",
    "prefs": "石川県",
    "search_prefs": "石川県",
    "scope": "regional",
-   "id": 39
+   "id": 61
   },
   {
    "date": "2026-11-21",
@@ -481,7 +745,7 @@
    "prefs": "",
    "search_prefs": "愛知県・滋賀県・佐賀県",
    "scope": "regional",
-   "id": 40
+   "id": 62
   },
   {
    "date": "2026-11-21",
@@ -491,9 +755,21 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "",
-   "search_prefs": "福井県・京都府",
+   "search_prefs": "福井県",
    "scope": "regional",
-   "id": 41
+   "id": 63
+  },
+  {
+   "date": "2026-11-21",
+   "title": "今シーズンはオスのズワイガニがお買い得 越前町で越前がにまつりにぎわう 観光客がセイコガニ1杯が入ったみそ汁で体を温める",
+   "source": "ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bHZjanR0cEItRjJFbVM4WElfaWQ3N2EzdkhpNXdDUTlwY2pOMmdPc1pvdmZ3NDhUeVlrWFdXRE1zNUw4cDM1YUgyLTFVck9FQmhVbjZydk96TldzQkU4elFfTzF4TU55dTJKYkFDdXp0NWVYUWVZWUtwUdIBgAFBVV95cUxOeHpMQWJiZGdFSEd2QzJOSmtocjYzZlVJQ2NMT0hYNGE4eGpzb1UxSFlVZ0RFTm4tTkFCT01hUmM1OHduWTBnYXAzQVp4RUhjaEJ1eE00MFFpQzRuZndiQjhwS0FGWXV3bXo2T1Z0aFdOYXFlMkZTYWZ3Y3VCOG0zaA?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "京都府",
+   "scope": "regional",
+   "id": 64
   },
   {
    "date": "2026-11-21",
@@ -505,7 +781,7 @@
    "prefs": "群馬県",
    "search_prefs": "群馬県",
    "scope": "regional",
-   "id": 42
+   "id": 65
   },
   {
    "date": "2026-11-21",
@@ -517,19 +793,7 @@
    "prefs": "群馬県",
    "search_prefs": "群馬県",
    "scope": "regional",
-   "id": 43
-  },
-  {
-   "date": "2026-11-21",
-   "title": "縁起だるま発祥の寺で紅葉見ごろ　観光客ら行き交う　群馬・高崎",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGhTQmYxNFBrUHZfd2xvSW5QT3h4ck1nQTh2SXJUeVlOMTBvWU45QUg3bFRKcUk5cTZqOWtmbnROQ3Jxa1NsWnpwOVNRVEw0Y3pBdmhuUi1lR1EyOUQ5bmZtdy1oZVpwQ3JHQnpaNExoOW1qckJIcFlSWGRjajhzb2hnRHFaWEtGbDI0aDNJbHRPOXRObTh2SNIBngFBVV95cUxOZjhiYXF3aHZuVWZoRHpJcncxWlBZQjNUdXNDbUdnSzF4Y3VBcUMtcmtFR2tNbnJ6c1V6azZkT3pOTEZNT0pZRXN0Q195ZHkweE5wRkI4aUtDRzlCSTNYRWV3OWlWTGt3NEVELTRfeUhscmZraDFIeVQwaDVZTHpWSjFDTzNsRUlVM2ZmWVBqNGVvVnZBTWJCcEo1cmRKdw?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "群馬県",
-   "search_prefs": "山形県",
-   "scope": "regional",
-   "id": 44
+   "id": 66
   },
   {
    "date": "2026-11-21",
@@ -541,7 +805,7 @@
    "prefs": "奈良県",
    "search_prefs": "奈良県",
    "scope": "regional",
-   "id": 45
+   "id": 67
   },
   {
    "date": "2026-11-21",
@@ -553,7 +817,7 @@
    "prefs": "東京都",
    "search_prefs": "東京都",
    "scope": "regional",
-   "id": 46
+   "id": 68
   },
   {
    "date": "2026-11-21",
@@ -563,9 +827,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "福島県",
-   "search_prefs": "岩手県・秋田県・山形県・福島県・茨城県",
+   "search_prefs": "岩手県・秋田県・山形県・茨城県・愛媛県",
    "scope": "regional",
-   "id": 47
+   "id": 69
   },
   {
    "date": "2026-11-21",
@@ -577,43 +841,19 @@
    "prefs": "福島県",
    "search_prefs": "鹿児島県",
    "scope": "regional",
-   "id": 48
+   "id": 70
   },
   {
    "date": "2026-11-21",
    "title": "大雪、福島・裏磐梯で千人超孤立 住民や観光客、倒木で国道ふさぐ",
    "source": "山陽新聞",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WT1ljWGJrakFpQUxBMFdBWG1jWGNTNDlFTUoxNEtGWjNwUnZGRlptMFY1UHBiSjVXUGkxcVJITlY4dHFwLVBtbmY5bHc0V2NmUEtRT2hCM0s0UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jMnM0NFpTOHVkNkVTcDgxdjZRSnJacHg5ZGlQLVdUaXlkNEhiRHVxWEJ5eENSYUl2ZmNKUENUQmVTRGxXYTlvUFEwU0xKaW5PQTVDSlhEZ3hRdw?oc=5",
    "sentiment": null,
    "category": "その他",
    "prefs": "福島県",
    "search_prefs": "静岡県・岡山県・鹿児島県",
    "scope": "regional",
-   "id": 49
-  },
-  {
-   "date": "2026-11-21",
-   "title": "「都道府県魅力度ランキング2026」１位は北海道。大阪府・長崎県が躍進。新潟、宮城、高知各県が魅力度とともに観光意欲も上昇 （地域ブランド調査2026より）",
-   "source": "地域ブランドNEWS",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EZGk4bkVKOHFtcE5lZlU3eUFuWHAyTVRjY19vSmc0N0ZHa1p3cFM5NmhBQ0czVVoyNnZ1ajRFd1RNbWQ1RkRERkJXaw?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "北海道・宮城県・新潟県・大阪府・高知県・長崎県",
-   "search_prefs": "宮城県・茨城県・群馬県・埼玉県・高知県・佐賀県・長崎県・宮崎県",
-   "scope": "regional",
-   "id": 50
-  },
-  {
-   "date": "2026-11-21",
-   "title": "訪日客 協力して誘致を 広島で瀬戸内４県都市長会議",
-   "source": "山陽新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50UjZyc1ZiOFVpOWNMWFpNQ1JPUzlKRFpLRlNMZW4ybDAzTm9MTGY2NGlTX0pDbVNOaWNhRVMzeEwtTjNMcm5OdU5DdzQ4TWNKdnpQMTdYU1BTNW5ydFl1MVJYVUtkZ00?oc=5",
-   "sentiment": null,
-   "category": "政策",
-   "prefs": "広島県",
-   "search_prefs": "岡山県・広島県",
-   "scope": "regional",
-   "id": 51
+   "id": 71
   },
   {
    "date": "2026-11-21",
@@ -623,9 +863,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "福島県",
-   "search_prefs": "兵庫県",
+   "search_prefs": "岩手県・秋田県・茨城県",
    "scope": "regional",
-   "id": 52
+   "id": 72
   },
   {
    "date": "2026-11-21",
@@ -637,7 +877,7 @@
    "prefs": "福島県",
    "search_prefs": "石川県",
    "scope": "regional",
-   "id": 53
+   "id": 73
   },
   {
    "date": "2026-11-21",
@@ -649,7 +889,7 @@
    "prefs": "",
    "search_prefs": "栃木県・群馬県・千葉県・静岡県・佐賀県",
    "scope": "regional",
-   "id": 54
+   "id": 74
   },
   {
    "date": "2026-11-21",
@@ -659,9 +899,9 @@
    "sentiment": null,
    "category": "航空",
    "prefs": "愛媛県",
-   "search_prefs": "石川県・奈良県・愛媛県",
+   "search_prefs": "千葉県・奈良県・愛媛県",
    "scope": "regional",
-   "id": 55
+   "id": 75
   },
   {
    "date": "2026-11-21",
@@ -673,19 +913,7 @@
    "prefs": "愛媛県",
    "search_prefs": "佐賀県",
    "scope": "regional",
-   "id": 56
-  },
-  {
-   "date": "2026-11-21",
-   "title": "工業観光がブーム 国内外の観光客が中国のスマート生産に関心",
-   "source": "AFPBB News",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3UEZzRlNkdm90YVU2dVR6YWNJYWtpdTFZUEF4TVNnZ21DSjkycDN3ekh3eGRDeHRTbF9wZ1NaVGJNM0J0SWR6NnZ4Zm1odlVZNlHSAVRBVV95cUxQeUxjemV6NVN5MmZFXzdVYVFyMm9SNjVyc2Z0amdhUmJTLXplS201dDVOX3FhQlgzcDRnYlpiN1JBdS1mY1U3emJ3eGpUdm9DVW9lQTA?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "",
-   "scope": "national",
-   "id": 57
+   "id": 76
   },
   {
    "date": "2026-11-21",
@@ -697,7 +925,7 @@
    "prefs": "佐賀県",
    "search_prefs": "佐賀県",
    "scope": "regional",
-   "id": 58
+   "id": 77
   },
   {
    "date": "2026-11-21",
@@ -709,7 +937,7 @@
    "prefs": "",
    "search_prefs": "宮崎県",
    "scope": "regional",
-   "id": 59
+   "id": 78
   },
   {
    "date": "2026-11-21",
@@ -721,7 +949,7 @@
    "prefs": "熊本県",
    "search_prefs": "熊本県",
    "scope": "regional",
-   "id": 60
+   "id": 79
   },
   {
    "date": "2026-11-21",
@@ -733,19 +961,19 @@
    "prefs": "宮崎県",
    "search_prefs": "宮崎県",
    "scope": "regional",
-   "id": 61
+   "id": 80
   },
   {
    "date": "2026-11-21",
    "title": "“あか牛弁当”や“高菜めし” など観光客にもうれしい！ スーパーセンタートライアル阿蘇店オープン",
    "source": "TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WM2NrWFFsRmtacUJjdk5POWk0VDdvRFAzdXhBRjRuNlBVbGxqYTFZVVJBMFhudWZ3N2ZKR1MxSzVaV0lwTEM2aDFVbnExX0VOTm5wU093dDNyZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmekRZNHNvVzBBdnh6OFRlc1MyZS00QnNxbjF3aDlaandzRjVTck4xcEFHX2hBN2x4b3NUUThqSGtGREF4d18xNVJRUFhFSFR0ZUJ3a014cw?oc=5",
    "sentiment": null,
    "category": "その他",
    "prefs": "",
-   "search_prefs": "熊本県",
+   "search_prefs": "兵庫県・熊本県",
    "scope": "regional",
-   "id": 62
+   "id": 81
   },
   {
    "date": "2026-11-21",
@@ -755,9 +983,9 @@
    "sentiment": null,
    "category": "プロモーション",
    "prefs": "高知県",
-   "search_prefs": "岩手県・高知県",
+   "search_prefs": "岩手県",
    "scope": "regional",
-   "id": 63
+   "id": 82
   },
   {
    "date": "2026-11-21",
@@ -769,7 +997,7 @@
    "prefs": "千葉県",
    "search_prefs": "千葉県",
    "scope": "regional",
-   "id": 64
+   "id": 83
   },
   {
    "date": "2026-11-21",
@@ -781,7 +1009,7 @@
    "prefs": "沖縄県",
    "search_prefs": "沖縄県",
    "scope": "regional",
-   "id": 65
+   "id": 84
   },
   {
    "date": "2026-11-21",
@@ -793,7 +1021,7 @@
    "prefs": "",
    "search_prefs": "宮城県",
    "scope": "regional",
-   "id": 66
+   "id": 85
   },
   {
    "date": "2026-11-21",
@@ -805,7 +1033,7 @@
    "prefs": "",
    "search_prefs": "兵庫県",
    "scope": "regional",
-   "id": 67
+   "id": 86
   },
   {
    "date": "2026-11-21",
@@ -815,21 +1043,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "岐阜県",
-   "search_prefs": "岐阜県・三重県",
+   "search_prefs": "",
    "scope": "regional",
-   "id": 68
-  },
-  {
-   "date": "2026-11-21",
-   "title": "イタリア・ベネチアのサンマルコ広場を訪れる観光客＝10月（ゲッティ＝共同） - ベネチア入場料、金額維持 徴収日拡大、観光公害対策 - 写真・画像(1/1)",
-   "source": "西日本新聞me",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xa2FPOTFmT2ppVHIyQ2ptOXM0RFhfTlIzd1lzeDdFNThRdEZhUmQ3NlVOdllyd2tKVFI4LU00TmFtamtYWDdaVmtaNGpNR3BYTUExM1k1WQ?oc=5",
-   "sentiment": null,
-   "category": "オーバーツーリズム",
-   "prefs": "",
-   "search_prefs": "福岡県",
-   "scope": "regional",
-   "id": 69
+   "id": 87
   },
   {
    "date": "2026-11-21",
@@ -841,7 +1057,7 @@
    "prefs": "山口県",
    "search_prefs": "山口県",
    "scope": "regional",
-   "id": 70
+   "id": 88
   },
   {
    "date": "2026-11-21",
@@ -853,19 +1069,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 71
-  },
-  {
-   "date": "2026-11-21",
-   "title": "パラオ、ごみのガラス瓶を工芸品ブランドに 日本人が主導、環境意識高い観光客にヒット",
-   "source": "沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DM1FBd0ZFQXprZDlhSC0zQTJKYVlWSU9HWDBBY0V6LXdIUWUwd0FnaEgtUXI1dmZBa1JraDFOZVhWZlpnQ0NUbTEtUVBSWjhlVXRSb0psekVzY0lOemc?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "沖縄県",
-   "scope": "regional",
-   "id": 72
+   "id": 89
   },
   {
    "date": "2026-11-21",
@@ -877,19 +1081,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 73
-  },
-  {
-   "date": "2026-11-21",
-   "title": "【11月3週 人気記事】東京が「世界で最も魅力的な都市」に選出、日本は魅力的な国ランキング2位に ほか｜インバウンドニュース週間アクセスTOP5",
-   "source": "Excite エキサイト",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1bVRXLWhjSDdORUpGUWd1c1NOUzlvWEdNRnY2d2l2Y0hyLUp1UEJnMzMwZkZtbllZVTZVa1U3N1JsZHIyYWg2bzQ4SlVrbWY0dW55ZFZmV0VtYjNoNVZTTWtCVEMzb19TYU85a1VyYk5PUmVmNTgtMA?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "東京都",
-   "search_prefs": "",
-   "scope": "regional",
-   "id": 74
+   "id": 90
   },
   {
    "date": "2026-11-21",
@@ -901,7 +1093,7 @@
    "prefs": "",
    "search_prefs": "三重県",
    "scope": "regional",
-   "id": 75
+   "id": 91
   },
   {
    "date": "2026-11-21",
@@ -913,19 +1105,7 @@
    "prefs": "",
    "search_prefs": "広島県",
    "scope": "regional",
-   "id": 76
-  },
-  {
-   "date": "2026-11-21",
-   "title": "訪日外国人、10月は0.4％増で3カ月ぶりプラス 過去最多（ロイター）",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVGw4YTJWWklpcE5nVmpvckR6RlFZQTNSSGhMQlU1dEJWeGxRRzMxZVo1cmV0WGJzUTF4Y3hhVjBWWUUwUG1ldzFILU1ObXdJLWJ2NTNOQl9YaTVubVNYYzlWX2VwYncweVRHMExyOVlweU1reTl1d0U0RHdpUzA?oc=5",
-   "sentiment": null,
-   "category": "統計",
-   "prefs": "",
-   "search_prefs": "",
-   "scope": "national",
-   "id": 77
+   "id": 92
   },
   {
    "date": "2026-11-21",
@@ -937,7 +1117,19 @@
    "prefs": "沖縄県",
    "search_prefs": "富山県",
    "scope": "regional",
-   "id": 78
+   "id": 93
+  },
+  {
+   "date": "2026-11-21",
+   "title": "五箇山に宿泊拠点 ＮＡＮＴＯ観光機構副会長の此尾さん、１２月ゲストハウス開業、学生・訪日客受け入れ",
+   "source": "北日本新聞webunプラス",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QSl9WNHc0RmRfd1RmQ0hZUG80N3VMWGtoelVETE5hZmRfdFR2QVJZanJXd2hocWYzaVRVNTZDNG9uaUc0RVlCQmN5RQ?oc=5",
+   "sentiment": null,
+   "category": "宿泊",
+   "prefs": "",
+   "search_prefs": "",
+   "scope": "national",
+   "id": 94
   },
   {
    "date": "2026-11-21",
@@ -949,31 +1141,31 @@
    "prefs": "",
    "search_prefs": "鳥取県",
    "scope": "regional",
-   "id": 79
+   "id": 95
   },
   {
    "date": "2026-11-21",
-   "title": "観光客でにぎわう小名浜港 戦争との関わりを学ぶツアー いわき市・福島",
-   "source": "TVer",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2NFBFZ0xNMllkTHZiNFZqeWwxem1pbzNmd1NDQkJ4azF1cE5WRTZ0WFFwS29NcmFnYmRpTTF0T0R6TmJMeG9qOFBRYw?oc=5",
+   "title": "観光ヘリ 余市エリア実証へ 東京の運航会社 函館発着の事業計画 離着陸場の許可取得 訪日客の需要期待",
+   "source": "北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41UlFzTGFMUE8tVjY0anNuUDc1QXIzTjBfQUFkSVFsWFh2UEVuVi03NWNkcXhONjludC1FaU9RY09CMnJSeGNWa3NUa1JlMnVOZEpLcWtabzEtdw?oc=5",
    "sentiment": null,
-   "category": "体験",
-   "prefs": "福島県",
-   "search_prefs": "埼玉県",
+   "category": "航空",
+   "prefs": "東京都",
+   "search_prefs": "",
    "scope": "regional",
-   "id": 80
+   "id": 96
   },
   {
    "date": "2026-11-21",
-   "title": "足柄小児童 小田原の魅力、観光客にPR 11月21・22日にスタンプラリー開催",
-   "source": "タウンニュース",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44cm1NNm9RbjhteFhmYk5jenJGN3BuUmRXVHQ5aFRiaVJIUUpLejkyb05RenZwb3VPRERzRTdJM2lBc0k1S2lpQnJkTV8xdEEzRzBlQ0ZtQmRaa1JfMW5Sa1hxblE?oc=5",
+   "title": "【秋の高温化、海外展開、インバウンド需要--】あえて「秋色の半袖」。 秋冬物投入時期に新色半袖Tシャツを追加",
+   "source": "山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WTWdET0xzUkNRN2ZqNy1KZDBvaWZaS0wwRkgzTm1ubllvRHRIS3Vfc2NxVXM1d1dUYjdxOWJuRVBwVWEtbDFrSTdJSGxfdmF0Nk1ZX1RQNG44SlREeXE0dEVIMW43OUk?oc=5",
    "sentiment": null,
-   "category": "プロモーション",
+   "category": "その他",
    "prefs": "",
-   "search_prefs": "神奈川県",
+   "search_prefs": "岡山県",
    "scope": "regional",
-   "id": 81
+   "id": 97
   },
   {
    "date": "2026-11-20",
@@ -985,7 +1177,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 82
+   "id": 98
   },
   {
    "date": "2026-11-20",
@@ -997,19 +1189,19 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 83
+   "id": 99
   },
   {
    "date": "2026-11-20",
-   "title": "訪日客の滞在先をPaykeが分析 韓国・台湾・香港は福岡の割合上昇",
-   "source": "Dellows News",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04QWZoclYxU2tNTTJjMEJNYW5MeDI0N21WRDkwdklXLWVLTUd3dGdpWjdiWlV0OFc3Q3pKVF9ndlF5WkZSN1Q0?oc=5",
+   "title": "城西国際大生、成田山新勝寺で訪日客を案内　「話す壁」越え英語でガイド",
+   "source": "ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DSm15aWhHWWZ5WDRyNWxjNWVtemhocWlPZUJ5OUVtcUQ0Q0Y1SS14YjRjY0VSRU1ZbG5ZV3JWNmhDRWZZSDhuMjVKNHJOTl9MU0hFY3lZT2Zwa3JCeGxHTW1XY215R0ZENzI0eVZBR09xWGFkaTZkaTM0elHSAYIBQVVfeXFMT1VRaTB4WUVLczF4YkhIblVhYzVVQzBBNmFVX09zZlRab01pSHY0SHNqYmpod3cwZ3VjLWp0dzhFejZQelE4UjhodEtFakVPdUxkWVN0c2ItSndEbEdOa1ZCR2ZpYklZUjMyNHV6bkZId3VRLUt1cEt4dzVsYmo1OXhZQQ?oc=5",
    "sentiment": null,
    "category": "その他",
-   "prefs": "福岡県",
-   "search_prefs": "石川県",
+   "prefs": "",
+   "search_prefs": "岡山県",
    "scope": "regional",
-   "id": 84
+   "id": 100
   },
   {
    "date": "2026-11-20",
@@ -1019,21 +1211,9 @@
    "sentiment": null,
    "category": "体験",
    "prefs": "",
-   "search_prefs": "愛知県",
-   "scope": "regional",
-   "id": 85
-  },
-  {
-   "date": "2026-11-20",
-   "title": "今度のポケモンは“空” 運行開始の｢ポケモンジェット 青｣ 初便が能登空港に12月12日就航",
-   "source": "TVer",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iZ3NoU25kVk1iWGhIMHRKUEU0c2MyS2ljeVczWHM3WXlEX3lzaHF6M2w3MWhLelpybmszZjU4RXhkTG5qTlpBYnlaVQ?oc=5",
-   "sentiment": null,
-   "category": "航空",
-   "prefs": "",
-   "search_prefs": "石川県",
-   "scope": "regional",
-   "id": 86
+   "search_prefs": "",
+   "scope": "national",
+   "id": 101
   },
   {
    "date": "2026-11-20",
@@ -1045,7 +1225,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 87
+   "id": 102
   },
   {
    "date": "2026-11-20",
@@ -1057,7 +1237,7 @@
    "prefs": "長崎県",
    "search_prefs": "長崎県",
    "scope": "regional",
-   "id": 88
+   "id": 103
   },
   {
    "date": "2026-11-20",
@@ -1069,7 +1249,7 @@
    "prefs": "",
    "search_prefs": "香川県",
    "scope": "regional",
-   "id": 89
+   "id": 104
   },
   {
    "date": "2026-11-20",
@@ -1081,19 +1261,7 @@
    "prefs": "島根県",
    "search_prefs": "島根県",
    "scope": "regional",
-   "id": 90
-  },
-  {
-   "date": "2026-11-20",
-   "title": "観光客にも県民にも愛されるオムタコ！買い物合間に立ち寄りたい人気店「タコライス Cafe きじむなぁ」（豊見城市）",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tVGljX2psY2lEMlo5QUNaYjdjRlRoVUttdkpNMDVzVEN5d2NsUWJrRW5kQWVDMXd0ZGhxZllQRFFxX3l0THJzbE5BZDJrSWI2bS1IUnZMejV0eXlUa19Vc1VnR0dqSzVlblZKTW0xZzNsNDR3akg0U2dLRXdzZ9IBfkFVX3lxTE0tVGljX2psY2lEMlo5QUNaYjdjRlRoVUttdkpNMDVzVEN5d2NsUWJrRW5kQWVDMXd0ZGhxZllQRFFxX3l0THJzbE5BZDJrSWI2bS1IUnZMejV0eXlUa19Vc1VnR0dqSzVlblZKTW0xZzNsNDR3akg0U2dLRXdzZw?oc=5",
-   "sentiment": null,
-   "category": "消費",
-   "prefs": "",
-   "search_prefs": "沖縄県",
-   "scope": "regional",
-   "id": 91
+   "id": 105
   },
   {
    "date": "2026-11-20",
@@ -1105,31 +1273,55 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 92
+   "id": 106
   },
   {
    "date": "2026-11-20",
-   "title": "冷え込む一日に　最低気温は肘折-0.1度ほか9地点で0度　22日まで雪が続く見込み　観光客も驚きの寒さ「薄着で来てしまって失敗」（山形）",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdXp0QlNGY0Z1OXdqaTBIOGhOSl9kOEltUjFVM3RTV0owQ09MWkNKclJoT1lxR0IycjZUOUZWRFFoNDJXeGR2cHdYc1VySWdlMVN0M1VKNkJTWGJBbXBramt2Zmg0RlFJSjlXYllGT09HLTQ40gF0QVVfeXFMUEp1enRCU0ZjRnU5d2ppMEg4aE5KX2Q4SW1SMVUzdFNXSjBDT0xaQ0pyUmhPWXFHQjJyNlQ5RlZEUWg0Mld4ZHZwd1hzVXJJZ2UxU3QzVUo2QlNYYkFtcGtqa3ZmaDRGUUlKOVdiWUZPT0ctNDg?oc=5",
+   "title": "観光客でにぎわう小名浜港 戦争との関わりを学ぶツアー いわき市・福島",
+   "source": "TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2NFBFZ0xNMllkTHZiNFZqeWwxem1pbzNmd1NDQkJ4azF1cE5WRTZ0WFFwS29NcmFnYmRpTTF0T0R6TmJMeG9qOFBRYw?oc=5",
    "sentiment": null,
-   "category": "その他",
-   "prefs": "山形県",
-   "search_prefs": "山形県",
+   "category": "体験",
+   "prefs": "福島県",
+   "search_prefs": "埼玉県",
    "scope": "regional",
-   "id": 93
+   "id": 107
+  },
+  {
+   "date": "2026-11-20",
+   "title": "今度のポケモンは“空” 運行開始の｢ポケモンジェット 青｣ 初便が能登空港に12月12日就航",
+   "source": "日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2FpRXpKeUFWbWtYQ045dkF3NmxDWVRTT0NqR0plYXlLUzlhbWF4bk56bEVRQ0pER3BiOHZUSERRRWdNdlpkeWl4Sk92b2NNWTJpckNPZkZfQkNUekprNU5BMzZjaV9qR0lkc25tOGE2Y0JMVnNOdVJaQks0ZnpTczFPMHlJX2M?oc=5",
+   "sentiment": null,
+   "category": "航空",
+   "prefs": "",
+   "search_prefs": "石川県",
+   "scope": "regional",
+   "id": 108
   },
   {
    "date": "2026-11-20",
    "title": "京都・嵐山、渡月橋上流の桂川に女性遺体 ボートの観光客が発見",
    "source": "京都新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpRE5IVXVSNWpxekhNcUdQRmZSUkRnRW1veTA5V1NUbjNXSEVwaGdNeVlTMkI0dFp5RERhZUZPNVpPVDJadmhwU1ZZaF90WDRMbm5xZVY5RVA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45ZXlfTDhpNXotQ1NULWVPakM4eUxsX3BDSGV6MXYtX3hzSVdiSmNOOGhwT3Y0SnhJRjFMdUpTMEQ1MWhGQVViYWVTenM0OVRra0EyMzVaenUxM0hsaUxwS253?oc=5",
    "sentiment": null,
    "category": "その他",
    "prefs": "京都府",
-   "search_prefs": "滋賀県・京都府",
+   "search_prefs": "京都府",
    "scope": "regional",
-   "id": 94
+   "id": 109
+  },
+  {
+   "date": "2026-11-20",
+   "title": "メキシコの訪日客2025年は20万395人・+32.0%で過去最高 — 山は10月、冬は+48.2%と3都府県の冬ADR",
+   "source": "HotelBank",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVE4a2xNSEI2amVjY2tJOFFiRDh3X3REVXE2OXNFMWNuWFJOUnV5WHN5bGFxWktZNVhfUHBkT3lUd2VPM0tZbGRycmlNcGdTeE5yQ1lpNFY0ajdpZWdjQklPNi1pX2dJWE9pVDlkS3hPRzVkOGJ5TkdSbkZtVVJoRG9ydlQ2eUlrNEE3dnFjWGdCYUM0SEl1QnhfalIwbkpvXzBJMFhRTEFHUWN3NmtEWnMwU2NwM2Nw?oc=5",
+   "sentiment": null,
+   "category": "統計",
+   "prefs": "",
+   "search_prefs": "東京都・京都府・大阪府・広島県",
+   "scope": "regional",
+   "id": 110
   },
   {
    "date": "2026-11-20",
@@ -1141,7 +1333,7 @@
    "prefs": "滋賀県・京都府",
    "search_prefs": "滋賀県・京都府",
    "scope": "regional",
-   "id": 95
+   "id": 111
   },
   {
    "date": "2026-11-20",
@@ -1153,7 +1345,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 96
+   "id": 112
   },
   {
    "date": "2026-11-20",
@@ -1165,7 +1357,19 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 97
+   "id": 113
+  },
+  {
+   "date": "2026-11-20",
+   "title": "訪日客の岡山訪問意欲３・８％ 政投銀調査、認知度大きく下回る",
+   "source": "山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QMW5JLXJRMUtyU3M2Um96VURRblN4Mk5BWU5uU2xBTmhnalAxVDhiVXRzbTJWOHMzRnZrbFotYkQ1TUNoYVZFa1pLX0ZvOFp2U3c?oc=5",
+   "sentiment": null,
+   "category": "統計",
+   "prefs": "岡山県",
+   "search_prefs": "広島県・香川県",
+   "scope": "regional",
+   "id": 114
   },
   {
    "date": "2026-11-20",
@@ -1177,7 +1381,7 @@
    "prefs": "",
    "search_prefs": "鳥取県",
    "scope": "regional",
-   "id": 98
+   "id": 115
   },
   {
    "date": "2026-11-20",
@@ -1189,7 +1393,7 @@
    "prefs": "",
    "search_prefs": "北海道",
    "scope": "regional",
-   "id": 99
+   "id": 116
   },
   {
    "date": "2026-11-20",
@@ -1199,9 +1403,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "",
-   "search_prefs": "富山県",
+   "search_prefs": "富山県・石川県",
    "scope": "regional",
-   "id": 100
+   "id": 117
   },
   {
    "date": "2026-11-20",
@@ -1213,7 +1417,7 @@
    "prefs": "",
    "search_prefs": "北海道",
    "scope": "regional",
-   "id": 101
+   "id": 118
   },
   {
    "date": "2026-11-20",
@@ -1225,19 +1429,19 @@
    "prefs": "大分県",
    "search_prefs": "大分県",
    "scope": "regional",
-   "id": 102
+   "id": 119
   },
   {
    "date": "2026-11-20",
    "title": "観光客730万人超えの別府でホテル開業ラッシュ…大手の相次ぐ進出 「素泊まり×地獄蒸し」新スタイルも登場",
    "source": "TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96QVNTS2FQMkUzdk1lVEVJSDh3WU1vdFVfMER4R0JNV0g4T2ZmVG1fSmhFOHhxTWtoQTRLemU4cGkzSlhVcVR4QW1Sc2xkUDA0VXpLRWMySQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrdDJvMHpqQ2FKa3NWNi1LRVJvMEtra3ZGOTllc0VlcEhTSjFFcTI2TUpOQ25NWFBqT01fWlB5MThOODBmZ051WjVSSFNGNG56Vm45a0NNT0lGdEZRUWo1Nm90cFo?oc=5",
    "sentiment": null,
    "category": "統計",
    "prefs": "",
-   "search_prefs": "兵庫県・大分県",
+   "search_prefs": "兵庫県・熊本県・大分県",
    "scope": "regional",
-   "id": 103
+   "id": 120
   },
   {
    "date": "2026-11-20",
@@ -1249,19 +1453,19 @@
    "prefs": "沖縄県",
    "search_prefs": "沖縄県",
    "scope": "regional",
-   "id": 104
+   "id": 121
   },
   {
    "date": "2026-11-20",
-   "title": "鞆の浦観光看板整備業務に係る公募型プロポーザルの実施",
-   "source": "トラベルボイス",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VYWtuaEt6V3hSeS1HUVlyRThEWUxQbHJKMjlZSDBBMXg5M0pNRFJNMHY1TS1hRTdGcXdKNWhiWFA3SFBhdjNxT1l6VWpNeGpZ?oc=5",
+   "title": "訪日客の43.3%が「出発前にSNSが役立った」と回答【Victoria Media調査】",
+   "source": "株式会社ヴァリューズ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HZ0VvVHIyb09Kdm1nbEVMUlEzRUlWZU1tMEN1aFFxXzBQa1ZJLW85WW1CSjIzOE9nWmZRTFRTSE5BNTI2RXYzTUNrVklZRlhjYWhpMFQxbw?oc=5",
    "sentiment": null,
-   "category": "政策",
+   "category": "統計",
    "prefs": "",
-   "search_prefs": "広島県",
-   "scope": "regional",
-   "id": 105
+   "search_prefs": "",
+   "scope": "national",
+   "id": 122
   },
   {
    "date": "2026-11-20",
@@ -1271,9 +1475,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "大分県",
-   "search_prefs": "岐阜県・大分県",
+   "search_prefs": "静岡県・大分県",
    "scope": "regional",
-   "id": 106
+   "id": 123
   },
   {
    "date": "2026-11-20",
@@ -1285,7 +1489,7 @@
    "prefs": "",
    "search_prefs": "三重県・大阪府・和歌山県・愛媛県",
    "scope": "regional",
-   "id": 107
+   "id": 124
   },
   {
    "date": "2026-11-20",
@@ -1295,9 +1499,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "長野県",
-   "search_prefs": "長野県・長崎県・宮崎県",
+   "search_prefs": "群馬県・埼玉県・長野県・和歌山県",
    "scope": "regional",
-   "id": 108
+   "id": 125
   },
   {
    "date": "2026-11-20",
@@ -1309,7 +1513,7 @@
    "prefs": "奈良県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 109
+   "id": 126
   },
   {
    "date": "2026-11-20",
@@ -1319,9 +1523,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "青森県",
-   "search_prefs": "高知県",
+   "search_prefs": "奈良県",
    "scope": "regional",
-   "id": 110
+   "id": 127
   },
   {
    "date": "2026-11-20",
@@ -1333,7 +1537,19 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 111
+   "id": 128
+  },
+  {
+   "date": "2026-11-20",
+   "title": "★WILLERなど4社、広島から島根への訪日客周遊を促進",
+   "source": "航空新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GczVvQjV1VkxMWjV2cjF5UVp3Q3FkaUlXRERsSmZJNE1GLWFmcnBiWHVtcDNKWFhBZ0RmTjhrY3hxTXlEeVJ3NA?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "島根県・広島県",
+   "search_prefs": "島根県",
+   "scope": "regional",
+   "id": 129
   },
   {
    "date": "2026-11-20",
@@ -1345,7 +1561,7 @@
    "prefs": "",
    "search_prefs": "栃木県",
    "scope": "regional",
-   "id": 112
+   "id": 130
   },
   {
    "date": "2026-11-20",
@@ -1357,7 +1573,7 @@
    "prefs": "大分県",
    "search_prefs": "大分県",
    "scope": "regional",
-   "id": 113
+   "id": 131
   },
   {
    "date": "2026-11-20",
@@ -1369,19 +1585,19 @@
    "prefs": "大分県",
    "search_prefs": "大分県",
    "scope": "regional",
-   "id": 114
+   "id": 132
   },
   {
    "date": "2026-11-20",
-   "title": "北信越でインター校計画続々、新潟県は食品保存や訪日客誘致を学びに",
-   "source": "日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNQTg5QWpJVzJ0ZjVMQzRyUWQwZkpnQUpLWGRRVVVLRXczY1BFZ0dWWHlPRnlPbjI0ZWs3RWs2RzR0Z2FReHBrNVZjTmw0eVF1UERGUl93Y1VCV2lEUEFnN3FGVDQ5SnQwRnB4bA?oc=5",
+   "title": "長崎県とベトナム航空が連携 チャーター便の実現や観光需要の創出など目指す（長崎新聞）",
+   "source": "Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VQXZJc1UwN0g1c05Wak5pX3hfMWZXbHlFSl9FcVp3Q084X0RTTkkybnlMWG5rTDFNT0lzbmlsRm1CWlpsRjBoZE5CdWltZGtzQ0xTLVpRTVNFQ09WX2t3eng3LWFUWE5zeUVGbVE5NTVZZ2haZG0tRGlMdlRRV1k?oc=5",
    "sentiment": null,
-   "category": "プロモーション",
-   "prefs": "新潟県",
-   "search_prefs": "新潟県・富山県",
+   "category": "航空",
+   "prefs": "長崎県",
+   "search_prefs": "長崎県",
    "scope": "regional",
-   "id": 115
+   "id": 133
   },
   {
    "date": "2026-11-20",
@@ -1393,19 +1609,7 @@
    "prefs": "長崎県",
    "search_prefs": "長崎県",
    "scope": "regional",
-   "id": 116
-  },
-  {
-   "date": "2026-11-20",
-   "title": "彦根城の魅力、自分たちの言葉で 地元の小6生らが観光客をガイド（朝日新聞）",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tb1VGcVRSZGlvVTNXRlcxc1d4ZC1RYjlxYlIwSTdIZkJxUHZfQVJ0bUNvRDlGeTBMVG5nNUhPQlFyOE5Yd20tRDdEZ0F1X2tleG52T2VvQVdLbHlJUmV0TnlFTGQ3LXg2SVc5R1lfUVljSmVWODl4c0Q4S2Q1aHM?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "群馬県",
-   "scope": "regional",
-   "id": 117
+   "id": 134
   },
   {
    "date": "2026-11-20",
@@ -1417,7 +1621,7 @@
    "prefs": "滋賀県",
    "search_prefs": "滋賀県",
    "scope": "regional",
-   "id": 118
+   "id": 135
   },
   {
    "date": "2026-11-20",
@@ -1429,7 +1633,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 119
+   "id": 136
   },
   {
    "date": "2026-11-20",
@@ -1439,9 +1643,9 @@
    "sentiment": null,
    "category": "統計",
    "prefs": "",
-   "search_prefs": "宮城県・千葉県・長野県・愛知県・大阪府・広島県・香川県・福岡県・鹿児島県・沖縄県",
+   "search_prefs": "宮城県・石川県・広島県・香川県・鹿児島県・沖縄県",
    "scope": "regional",
-   "id": 120
+   "id": 137
   },
   {
    "date": "2026-11-20",
@@ -1453,7 +1657,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 121
+   "id": 138
   },
   {
    "date": "2026-11-20",
@@ -1463,9 +1667,9 @@
    "sentiment": null,
    "category": "統計",
    "prefs": "大阪府",
-   "search_prefs": "京都府・大阪府",
+   "search_prefs": "",
    "scope": "regional",
-   "id": 122
+   "id": 139
   },
   {
    "date": "2026-11-20",
@@ -1477,19 +1681,7 @@
    "prefs": "",
    "search_prefs": "東京都",
    "scope": "regional",
-   "id": 123
-  },
-  {
-   "date": "2026-11-20",
-   "title": "画像1 / 8＞「観光客に依存してしまっていた」。あぶらとり紙屋だと思われている「よーじや」が創業120周年にして脱観光依存に挑むワケ",
-   "source": "ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzWjZSVzlHSmNPZEJQMV8xZDBqaDU1S3kzRk1lRl9rcm1mN0JyQ0wzdmlGai02bUpIX1lDSDFHbXNfMWZJSXQyZGQ1RlBLcjc5SWNBdWQ3bDdaQlVwRXZJZmtzYkJOcWNnZ1d5b25R?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "神奈川県",
-   "scope": "regional",
-   "id": 124
+   "id": 140
   },
   {
    "date": "2026-11-20",
@@ -1501,7 +1693,7 @@
    "prefs": "北海道",
    "search_prefs": "北海道",
    "scope": "regional",
-   "id": 125
+   "id": 141
   },
   {
    "date": "2026-11-20",
@@ -1513,19 +1705,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 126
-  },
-  {
-   "date": "2026-11-20",
-   "title": "国宝・犬山城の年間入場者70万人突破　「国内旅行に回帰」追い風",
-   "source": "Infoseek",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBna1BMX2VEQ09zTVdOQmp4WHFJSC1JZ3NsZW1zZjBHY0c3Z3Vha3VZX0ZSejQwMkZVRFdQbTRZMXF5cW5zUUh0MWxsdDNIaHhsWkc3MXhvNnI4c21nQnV0VWNSdHF5VllBZS1IQl83aUN0dnpYaXVTM3hvNExIWjjSAX9BVV95cUxQZ2tQTF9lRENPc01XTkJqeFhxSUgtSWdzbGVtc2YwR2NHN2d1YWt1WV9GUno0MDJGVURXUG00WTFxeXFuc1FIdDFsbHQzSGh4bFpHNzF4bzZyOHNtZ0J1dFVjUnRxeVZZQWUtSEJfN2lDdHZ6WGl1UzN4bzRMSFo4?oc=5",
-   "sentiment": null,
-   "category": "統計",
-   "prefs": "",
-   "search_prefs": "愛知県",
-   "scope": "regional",
-   "id": 127
+   "id": 142
   },
   {
    "date": "2026-11-20",
@@ -1537,19 +1717,19 @@
    "prefs": "",
    "search_prefs": "茨城県",
    "scope": "regional",
-   "id": 128
+   "id": 143
   },
   {
    "date": "2026-11-20",
-   "title": "よじごじＤａｙｓ【外国人観光客とふれあい旅〔浅草・押上〕】ＭＣ:小泉孝太郎",
+   "title": "よじごじＤａｙｓ【外国人観光客とふれあい旅〔浅草・押上〕】ＭＣ:小泉孝太郎(テレ東、2026/11/26 15:40 OA)の番組情報ページ",
    "source": "www.tv-tokyo.co.jp",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWEVhYUF1bGhyTW9jMzdZaXZBTjB5Wi1wUW05OGEwdnZGejhiZ29nMlFxanZ4VktvUXMwLWxpQmdKa3NxaWM4czZNUTRNZ1RkbmVSQnlMTzYzOThjd0xnTS1xdXlFazNjRFpHUnZnSXpjUFl1N3pnNno3TkoxUW5UYW5xbldWem1BT0Q1TlVIbw?oc=5",
    "sentiment": null,
    "category": "その他",
    "prefs": "",
-   "search_prefs": "茨城県・栃木県",
+   "search_prefs": "栃木県",
    "scope": "regional",
-   "id": 129
+   "id": 144
   },
   {
    "date": "2026-11-20",
@@ -1561,19 +1741,7 @@
    "prefs": "石川県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 130
-  },
-  {
-   "date": "2026-11-20",
-   "title": "十四面体のちょうちん、観光客ら制作 ハートランド倉敷関連ワークショップ ２１～２７日も",
-   "source": "山陽新聞",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiTnlfMWNkSlRJbU8tS3pCRW83a0lFOXRDS0dhVkY3c2gyQ1B0c3hReGdnbWFNaVE3WjhBY1cyYTVzYVo5c0o5dG9pdWx0ckQtTXFzVkpBcHhDQ1pkY2NXWTVNUzhvTXVHem1Dc2xIWQ?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "岡山県",
-   "scope": "regional",
-   "id": 131
+   "id": 145
   },
   {
    "date": "2026-11-20",
@@ -1585,7 +1753,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 132
+   "id": 146
   },
   {
    "date": "2026-11-20",
@@ -1595,9 +1763,9 @@
    "sentiment": null,
    "category": "消費",
    "prefs": "",
-   "search_prefs": "東京都",
-   "scope": "regional",
-   "id": 133
+   "search_prefs": "",
+   "scope": "national",
+   "id": 147
   },
   {
    "date": "2026-11-20",
@@ -1607,9 +1775,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "",
-   "search_prefs": "",
-   "scope": "national",
-   "id": 134
+   "search_prefs": "秋田県・熊本県",
+   "scope": "regional",
+   "id": 148
   },
   {
    "date": "2026-11-19",
@@ -1619,9 +1787,21 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "大阪府",
-   "search_prefs": "秋田県・鹿児島県",
+   "search_prefs": "秋田県",
    "scope": "regional",
-   "id": 135
+   "id": 149
+  },
+  {
+   "date": "2026-11-19",
+   "title": "幻想的な「逆さ紅葉」佐世保市江迎町・寿福寺の本堂アクリル板に映える秋景色…アジア各国からも観光客続々（NBC長崎放送）",
+   "source": "Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMTRmX2s3c3JGU2ZaWVNwbHdpWlhlbmsxbDhRSll2N2lmLXJWUzNGSWNTTFhXODRFVURHTzFFUm5PN3BsSzVkUHN1TUt0NW1QZkUzd3hUSmdfN21zREN0MFhpOXUzb3ZEMElobTJJTjB6Y1BhUk5tWjFPazQzUW8?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "長崎県",
+   "search_prefs": "長崎県",
+   "scope": "regional",
+   "id": 150
   },
   {
    "date": "2026-11-19",
@@ -1633,19 +1813,7 @@
    "prefs": "",
    "search_prefs": "鹿児島県",
    "scope": "regional",
-   "id": 136
-  },
-  {
-   "date": "2026-11-19",
-   "title": "観光地への交通手段や時間 検索可能に 岡山県 訪日客向け観光サイトをリニューアル",
-   "source": "山陽新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVdDNFU1ZGUkQtdHluMVBMNy1JU1VZdnF6OEtQeHI1d2MwUmhfUEJXVHVra1UzNlo0dTZKLVFsUlkySTBaQWoyV1Q3dVljYjVQSUxQLTVxLV9Ral9Mb2lYQXN4cC1ZRi1V?oc=5",
-   "sentiment": null,
-   "category": "交通",
-   "prefs": "岡山県",
-   "search_prefs": "香川県",
-   "scope": "regional",
-   "id": 137
+   "id": 151
   },
   {
    "date": "2026-11-19",
@@ -1655,9 +1823,9 @@
    "sentiment": null,
    "category": "その他",
    "prefs": "岡山県",
-   "search_prefs": "岡山県",
+   "search_prefs": "",
    "scope": "regional",
-   "id": 138
+   "id": 152
   },
   {
    "date": "2026-11-19",
@@ -1669,7 +1837,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 139
+   "id": 153
   },
   {
    "date": "2026-11-19",
@@ -1681,19 +1849,7 @@
    "prefs": "島根県",
    "search_prefs": "島根県",
    "scope": "regional",
-   "id": 140
-  },
-  {
-   "date": "2026-11-19",
-   "title": "外国人観光客の生活を支える、ニセコのコンビニで売れているものとは？",
-   "source": "ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PVzhGVHZ0ek9Ta0s1UHg2MlZyZ1NCeE5rSEhSOVRSYWVxZUQ4VzNtQ1d0YWlQd2RrZDZkNU9BSU5ZUk0tTnpPcllab1JHZXpLbW1lVy1UZ3ltWWpPZXdiTmVXcE9sLXlaX0FQbUx4ZV9pdjZIdE9McjNadw?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "大阪府",
-   "scope": "regional",
-   "id": 141
+   "id": 154
   },
   {
    "date": "2026-11-19",
@@ -1705,19 +1861,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 142
-  },
-  {
-   "date": "2026-11-19",
-   "title": "画像2 / 2＞連載第5回「大阪インバウンド最前線」急増するインバウンドで大阪はどうなる？ 大阪観光局局長 溝畑宏さんに聞く",
-   "source": "ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aMUlYZjlUWHowQ1ltZlZhYTZaTTRXc1RDMkJjYVRVSF9lV1JidEZSM0VJN0d6T3UtdV9za2FlMEVUTDd1d3pyUldmV1EzOHpQQ2R2Z1hVdW9abEZ0ajd0SDUydTZ6YmdUUWJkcFBUajdvLVFkNGgzeWlNMA?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "大阪府",
-   "search_prefs": "大阪府",
-   "scope": "regional",
-   "id": 143
+   "id": 155
   },
   {
    "date": "2026-11-19",
@@ -1729,55 +1873,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 144
-  },
-  {
-   "date": "2026-11-19",
-   "title": "善光寺境内のイチョウ、黄色の葉のじゅうたん 観光客「１枚持って帰る」",
-   "source": "信濃毎日新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LU0xobEVWSjVHZXI2MGRJNzhmdGJCNmxNd21ub0ptMVJSY2dka1ZIWDhESjdKVkhKaXRMaXRNMTNuTUtjR1dGbTJaa0tqSW1oeGNrRHhzd3h3V0NoOU0yM2RyWjhkTFNGVU5FTERZLVQ?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "長野県",
-   "scope": "regional",
-   "id": 145
-  },
-  {
-   "date": "2026-11-19",
-   "title": "【開催報告】観光のその先へ、伏見で働く人に聞く仕事とまちのホンネ｜地域の仕事“ホンネ”サロン #15 京都市伏見区編",
-   "source": "Glocal Mission Times",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56S1o4TGRNRVQyLTRpektSNzBqa3M1WUNkZnpwdnMzM3Q3enY4VUhYXzZwZm5LYTNsLXJab2VDQlRseHNZOUx2eFB6MHl6OVVTclVVNkl3?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "京都府",
-   "search_prefs": "京都府",
-   "scope": "regional",
-   "id": 146
-  },
-  {
-   "date": "2026-11-19",
-   "title": "観光客向け茶室開設 本格的なお点前体験 松風（瀬戸内）",
-   "source": "山陽新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jQzk1a1R0emdkbjUxUm05ckdCS3RFZTlUNElraTRlczR4YkNGWGItcW1OalNuU2h0WDdqVWZCbjI3QzBSblhQX2ZiYmZVdmRORXZVc2JqZVVPWmFHd0JqSlp1Tzg?oc=5",
-   "sentiment": null,
-   "category": "体験",
-   "prefs": "",
-   "search_prefs": "岡山県",
-   "scope": "regional",
-   "id": 147
-  },
-  {
-   "date": "2026-11-19",
-   "title": "京都市下京区で市民と外国人観光客が一緒に料理 「天ぷら」教わり「いいことばかり」",
-   "source": "京都新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMmJHTjluTzdJTlhQZ19Rc1pTV1RxMWNiLUtYUkRTQ0RmRTBNaDlncXZIaElwMnU5b2dkVFBnSG5TMXdXVFBPNVNRV0dRdnhaQTVybzNnbWw?oc=5",
-   "sentiment": null,
-   "category": "体験",
-   "prefs": "京都府",
-   "search_prefs": "京都府",
-   "scope": "regional",
-   "id": 148
+   "id": 156
   },
   {
    "date": "2026-11-19",
@@ -1789,7 +1885,7 @@
    "prefs": "",
    "search_prefs": "山梨県",
    "scope": "regional",
-   "id": 149
+   "id": 157
   },
   {
    "date": "2026-11-19",
@@ -1801,7 +1897,7 @@
    "prefs": "",
    "search_prefs": "愛媛県",
    "scope": "regional",
-   "id": 150
+   "id": 158
   },
   {
    "date": "2026-11-19",
@@ -1813,7 +1909,7 @@
    "prefs": "千葉県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 151
+   "id": 159
   },
   {
    "date": "2026-11-19",
@@ -1825,7 +1921,7 @@
    "prefs": "",
    "search_prefs": "東京都",
    "scope": "regional",
-   "id": 152
+   "id": 160
   },
   {
    "date": "2026-11-19",
@@ -1837,19 +1933,7 @@
    "prefs": "",
    "search_prefs": "東京都",
    "scope": "regional",
-   "id": 153
-  },
-  {
-   "date": "2026-11-19",
-   "title": "パンパシＨＤ---大幅反発、訪日客好調で10月は単月で過去最高更新 執筆 Fisco",
-   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10YTFmR0ZHVnJXS2V4Ni15T0tPTTAxZXROTl9BSDZ2TW9qUl8xWU1hMWY4cFFaYjJnSkJWLWNBdFNYZjhyc2ZNZHlQM1FoWUM4amdIMXVCYVh6czVkRXdHOTIwZWJyQ0wtMVQ5VTZYN3Y?oc=5",
-   "sentiment": null,
-   "category": "統計",
-   "prefs": "",
-   "search_prefs": "",
-   "scope": "national",
-   "id": 154
+   "id": 161
   },
   {
    "date": "2026-11-19",
@@ -1861,7 +1945,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 155
+   "id": 162
   },
   {
    "date": "2026-11-19",
@@ -1873,7 +1957,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 156
+   "id": 163
   },
   {
    "date": "2026-11-19",
@@ -1885,7 +1969,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 157
+   "id": 164
   },
   {
    "date": "2026-11-19",
@@ -1895,9 +1979,21 @@
    "sentiment": null,
    "category": "プロモーション",
    "prefs": "",
+   "search_prefs": "岩手県・栃木県・徳島県・愛媛県",
+   "scope": "regional",
+   "id": 165
+  },
+  {
+   "date": "2026-11-19",
+   "title": "【独自調査】2026年最新：外国人に人気の飲食店ランキング［神戸編］1位は「神戸ビーフ焼肉 お加虎三宮店」！| インバウンド人気飲食店ランキング #インバウンド #MEO",
+   "source": "PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LSGdjUHlPUklyb0tDUVBHOGhrVWZkWHNEQ2pHMDhTdHRQWUF1ZXZPZ2JlOTZDMEdzTlRpR3A1REZ6c0ZpMkY5cXdGNUZLb0VUYnFtMWlabDBJLWdCM01SYnh1YUFsTWMzT3c?oc=5",
+   "sentiment": null,
+   "category": "体験",
+   "prefs": "",
    "search_prefs": "徳島県",
    "scope": "regional",
-   "id": 158
+   "id": 166
   },
   {
    "date": "2026-11-19",
@@ -1909,19 +2005,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 159
-  },
-  {
-   "date": "2026-11-19",
-   "title": "奈良の観光消費拡大へ、新たな観光体験型サービスを開発 「やまとの香り バスソルトLAB」事業化テストイベントを11／28に開催",
-   "source": "アットプレス",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2SS1ISjZzaWVqM3BDeE1pS3dPc29RX205ZXlXeTNXdnpGMjM4ZnVhS1VFeUFadTFYVkNOMFhMV19LTVdlUld2Ui13YXVTQQ?oc=5",
-   "sentiment": null,
-   "category": "消費",
-   "prefs": "奈良県",
-   "search_prefs": "奈良県",
-   "scope": "regional",
-   "id": 160
+   "id": 167
   },
   {
    "date": "2026-11-19",
@@ -1933,19 +2017,7 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 161
-  },
-  {
-   "date": "2026-11-19",
-   "title": "観光客も「ベリーコールド」12月並みの寒さ… 阿蘇・草千里 今夜から落雷・突風に注意 熊本",
-   "source": "TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aczdjX1hoalBhY21zcHBvOUhoYjd3ZERPNjBoNHFKNWQzdV9QTlZBWkdWeWl4V3pBZ21JTDZTdlJETDZoS0VZLTRndklCdWMtUTh6TG9PUEoyN3oyNGNGSlhNZHQ?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "熊本県",
-   "search_prefs": "熊本県",
-   "scope": "regional",
-   "id": 162
+   "id": 168
   },
   {
    "date": "2026-11-19",
@@ -1957,43 +2029,43 @@
    "prefs": "",
    "search_prefs": "",
    "scope": "national",
-   "id": 163
+   "id": 169
   },
   {
    "date": "2026-11-19",
-   "title": "ヤマト運輸と連携し、訪日外国人旅行者向け手荷物配送サービスを開始",
-   "source": "ニコニコニュース",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vWmxDRVdUVG1jVVl6dVZsUkF6aUR6cFlrekJFMlRaVVcyTlRaa3lMbzlmZUU3REhaOTQ4aFdjU0NnX2pEdVFJSDcxR2prZXlRUmNDTkw3MVJ5UzNyN19Cb2ttS0dJd1JO?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "東京都",
-   "scope": "regional",
-   "id": 164
-  },
-  {
-   "date": "2026-11-19",
-   "title": "日本は2年連続「SNSで最も人気の国」。インバウンド消費は過去最高9.5兆円、商機はショート動画に【インバウンドSNS調査】",
-   "source": "PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MOER2RFhmWExXcnBtNVkyRHR3MlNfNEVxclpBTjRLd2Q1STRkNi10WC1heDJkUzMxZ3pwN3BzbUc1aThpVFhOYWVaOTNlMExWZUxGTFZ0NnhJbEVYVWNNRU1OMVg1ejRseXc?oc=5",
+   "title": "１０月訪日客、３９１万人＝紅葉シーズンで単月過去最高―政府観光局",
+   "source": "iJAMPポータル",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HS0x4a1RINUlkbV8wYWh4RDJqY0lvSlBZMU55VjZrU29BQW1DZTVacVNDZTRBaUxGYnBMNWx4Y19NUXNGal9VTzFfZFRJX1JzaEpEeWJrdks0Q0FVdExDZVd0dlFXUGh3ZDNUQ09rOA?oc=5",
    "sentiment": null,
    "category": "統計",
    "prefs": "",
-   "search_prefs": "",
-   "scope": "national",
-   "id": 165
+   "search_prefs": "宮城県・山梨県",
+   "scope": "regional",
+   "id": 170
   },
   {
    "date": "2026-11-19",
    "title": "沖縄北部まで来たインバウンド客の旅程のうち、JUNGLIA OKINAWAの周辺で記録されたのは約3%、美ら海水族館の周辺の約10分の1",
-   "source": "PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yY09vZ1BkdmNEM043WE9VZHl3azZsVmRQYUl1RjZkdERRT3hMOWF5VlBhbzVoUjV6ZDBVQmk4V21BeGQ3bGtibWFlVVNxcGFXaG1lanhuREpTdnR1MFRCa2xrWjBWV290Ync?oc=5",
+   "source": "沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DOURqajA5TFdpV2I5U2oxeEhJbnRjZEVtV055ZU9UTXpiYmdQdEN4eUozckpUZkZoWW5JR3dxX2dEZElmYUpoSDhjYlZOV2RyVzNzbFlqVkdpY3owVEE?oc=5",
    "sentiment": null,
    "category": "統計",
    "prefs": "沖縄県",
-   "search_prefs": "",
+   "search_prefs": "沖縄県",
    "scope": "regional",
-   "id": 166
+   "id": 171
+  },
+  {
+   "date": "2026-11-19",
+   "title": "写真：沖縄北部まで来たインバウンド客の旅程のうち、JUNGLIA OKINAWAの周辺で記録されたのは約3%、美ら海水族館の周辺の約10分の1",
+   "source": "沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nT1JwV2tZUEtCd0ZCSTlidUlzY3BodWJ0WHVEY01fd0d0T004Zkx5eTNCNG1idUUwWE9Ibkl4QnNvZlFKVUsxYjU2V2JobUV4YU5kRnVQLW9WazE1b1RBaEdZWEF5Zw?oc=5",
+   "sentiment": null,
+   "category": "統計",
+   "prefs": "沖縄県",
+   "search_prefs": "沖縄県",
+   "scope": "regional",
+   "id": 172
   },
   {
    "date": "2026-11-19",
@@ -2005,31 +2077,7 @@
    "prefs": "",
    "search_prefs": "三重県",
    "scope": "regional",
-   "id": 167
-  },
-  {
-   "date": "2026-11-19",
-   "title": "強みは深い精神性や美食 欧州インバウンドに東北の売り込み強化へ [山形県]",
-   "source": "朝日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TWk0SzBJZURPSExEbzMyMXJCOC1CZlUxZGRGWWZyQzBCQ240Mkk0Tm5EeWlJVmoxN2ZiVWQ3RlZ6VXp5VTJXS2U2Z2JBSXNKRmJxMXpCOUFldElNaXNSOG4yME4zVzA?oc=5",
-   "sentiment": null,
-   "category": "体験",
-   "prefs": "山形県",
-   "search_prefs": "新潟県",
-   "scope": "regional",
-   "id": 168
-  },
-  {
-   "date": "2026-11-19",
-   "title": "新潟の魅力掘り起こせ！ 観光誘致へアイデア競争―ロンドン：時事ドットコム",
-   "source": "時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IMndzcUo4d1hyRFdlMmVmanVieldER0RnUl9CZDFqQXlnTjhncnk1ck1MREtVMExVajhwcEw4NDNoa2pBYlNuX2VXUEloci1GN21aYXpkaENJWW10Y0hETmlXRQ?oc=5",
-   "sentiment": null,
-   "category": "プロモーション",
-   "prefs": "新潟県",
-   "search_prefs": "新潟県",
-   "scope": "regional",
-   "id": 169
+   "id": 173
   },
   {
    "date": "2026-11-19",
@@ -2041,55 +2089,19 @@
    "prefs": "",
    "search_prefs": "和歌山県",
    "scope": "regional",
-   "id": 170
+   "id": 174
   },
   {
    "date": "2026-11-19",
-   "title": "インバウンド客の受け入れ環境考えるセミナー 宿泊税を活用して開催 集客のカギは地域の外国人〈宮城〉",
-   "source": "Excite エキサイト",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WcUtGd0czeHJUVUxyQVlEaUdYODROTGVQWXNpTmo5N1ppOEFHRXg2TnRoa3VJRnlielNGUjBHLUpEdzBoemhpaHhYa0JtVnRDWGtPdXdrNDJ4Ni1zZlBnYy04ZmJfQ0NJUTRibEhsekVBUQ?oc=5",
-   "sentiment": null,
-   "category": "宿泊",
-   "prefs": "宮城県",
-   "search_prefs": "宮城県・香川県",
-   "scope": "regional",
-   "id": 171
-  },
-  {
-   "date": "2026-11-19",
-   "title": "インバウンド客の受け入れ環境考えるセミナー 宿泊税を活用して開催 集客のカギは地域の外国人〈宮城〉（仙台放送）",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMXEtZzUtQnc5ZFQzb3NXQTJFTlo3X1o5ZEtPamp6SmxsNVRGSUJ0UGFValh3ZHN2Zi1qZ2hPSjB5YmJ0LU5yMVROaHUzZmktRGQxZjdqYWJHNU9VNmhkcHJuLS13dU95aHUwN1RNTjd2b1ZxZHBvQXk2N1ZEbUU?oc=5",
-   "sentiment": null,
-   "category": "宿泊",
-   "prefs": "宮城県",
-   "search_prefs": "",
-   "scope": "regional",
-   "id": 172
-  },
-  {
-   "date": "2026-11-18",
-   "title": "画像2 / 5＞連載第10回「大阪インバウンド最前線」外国人観光客と変化する新世界を語る！近藤正孝さんインタビュー",
-   "source": "ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwOUxabEhZUDV0UlR3N01IZWMzalhOdjFBeDhEbDRWdE0temRVY3MyYnpja2VCdjhSTEtDNjYydGpBQ3dCTFBma243YzBOb09MNkt6bWpxUmlvX052Y19KZjZ6bFpKaENGTkFDWFN6Q0xEM2MtZ2ZGVFctcw?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "大阪府",
-   "search_prefs": "秋田県",
-   "scope": "regional",
-   "id": 173
-  },
-  {
-   "date": "2026-11-18",
-   "title": "１０月訪日客３９１万、単月最多",
-   "source": "愛媛新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xS3dKNlVxdFp2RmR3cnFCQktVOWV5WXZwa2xyRUpfTXgyR1FTOG83N21ENnFhcGN0QkV5SUZWa0w0SWlDZnNJaFJXeW9LSlpaQjhSOWJObmp4Q3pwMnRJZ2kydUdKUQ?oc=5",
+   "title": "アゴダ：訪日旅行者に冬に人気の温泉地ランキングTOP5を発表",
+   "source": "ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S3lvdFd3RlRWYjNkMUNFZGJjM2YxRHN6bnY3LUlsa0J5Tmp1TVZhbU4wa2VRV2dlSzZjOUhiX3BISTc2Z042VndxSjhlMnRVYWpvdmlJVXg5bk9WbkNySFJVbGo1YVdVdEc5NjJJN3ZZLVQwMFE?oc=5",
    "sentiment": null,
    "category": "その他",
    "prefs": "",
-   "search_prefs": "栃木県・愛媛県",
+   "search_prefs": "岐阜県",
    "scope": "regional",
-   "id": 174
+   "id": 175
   },
   {
    "date": "2026-11-18",
@@ -2099,9 +2111,9 @@
    "sentiment": null,
    "category": "宿泊",
    "prefs": "大分県",
-   "search_prefs": "大分県",
+   "search_prefs": "三重県・香川県",
    "scope": "regional",
-   "id": 175
+   "id": 176
   },
   {
    "date": "2026-11-18",
@@ -2112,18 +2124,6 @@
    "category": "その他",
    "prefs": "東京都",
    "search_prefs": "",
-   "scope": "regional",
-   "id": 176
-  },
-  {
-   "date": "2026-11-18",
-   "title": "訪日外国人、単月で最多に…10月は約391万人",
-   "source": "Excite エキサイト",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ld2ZwbHloaWV3NFBZVzRVdDJNeUZoVWFEWHZYLW4ySDFxbjlPMWF4TEFsUElmWWl5d1hMMjJad285d3lvbGw0WUZIdzdmb3VUa0U5RHVUcUhKTkpya25HejFvamVpVHFYbDRfRktB?oc=5",
-   "sentiment": null,
-   "category": "統計",
-   "prefs": "",
-   "search_prefs": "埼玉県",
    "scope": "regional",
    "id": 177
   },
@@ -2153,51 +2153,15 @@
   },
   {
    "date": "2026-11-18",
-   "title": "アゴダ：訪日旅行者に冬に人気の温泉地ランキングTOP5を発表",
-   "source": "愛媛新聞",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSQUNuaXNKSzNuT3pFdVVMSjBWbGxibnZ4SnVITDZHQjEwR3VrZjBBVUJLeG1zLTc3bWU0cjBWQzdEeUlUazBwOHFIbEFqWHY2dWlsZ0w4VTF4cVF1?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "",
-   "search_prefs": "和歌山県・愛媛県",
-   "scope": "regional",
-   "id": 180
-  },
-  {
-   "date": "2026-11-18",
    "title": "１０月訪日客、３９１万人 紅葉シーズンで単月過去最高―政府観光局",
    "source": "時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BbUZJY0xpWDRKR0h5MmlBU3VRdWZIU09oZ2tnTG1mdWpzLWZrX2w3V0F3WC0tdC1wQWRkckFFRHJRNkU4bHNnWkdyU3A3dV95NFJKUS1CTUN5SWJBc0JXNnMtSQ?oc=5",
    "sentiment": null,
    "category": "統計",
    "prefs": "",
-   "search_prefs": "埼玉県・山梨県",
-   "scope": "regional",
-   "id": 181
-  },
-  {
-   "date": "2026-11-18",
-   "title": "１０月訪日客、３９１万人＝紅葉シーズンで単月過去最高―政府観光局",
-   "source": "時事通信ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pMjdZakI5ZVVTZW1uMEROZGxxLUFaWC1kd0VtR0hXY3dqcUxVQkxWeTFHV1RKUjhMYXdxUThuT21JR2JGRDdLRE1CTWZWUEVFZEhwcENqWWsySDNwRFE?oc=5",
-   "sentiment": null,
-   "category": "統計",
-   "prefs": "",
    "search_prefs": "山梨県",
    "scope": "regional",
-   "id": 182
-  },
-  {
-   "date": "2026-11-18",
-   "title": "「神在月」の出雲へようこそ！　“八百万の神々”と観光客をお出迎え　神門通りも「特需」に期待（島根）",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTV9BUWRpZ3p2Q2Jhd1BhOTJiWUhXd1pKR2dKczc1QmUxMENHZHF4elR6a2dmWVUtdTBVV004LTY3QnVxc3gwd1dSY0MtVUJQNVNoZmZiU205enRkWVdiaDJ2LTBETXRuRUJXZG5FWDJwVFlMMXRNVXd6dzVvdnAzdU5Jb9IBiAFBVV95cUxNZE96S3AybWhxRHdYcHFXcmswMldiYnozNzlxZExhUE5BbWd1ZnFZVVUzT200TDNoVDA0Tlh3ZHdXLUFyUXpVM0xDTnc1N0xpclI3R0VRVk5neU5qcE80U0lnMVFmRWEtaDkwOHFnZHp0bGFuWUVBc28ydEY5SnNZQXhQb3VuU0JP?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "島根県",
-   "search_prefs": "島根県",
-   "scope": "regional",
-   "id": 183
+   "id": 180
   },
   {
    "date": "2026-11-18",
@@ -2209,7 +2173,7 @@
    "prefs": "",
    "search_prefs": "栃木県",
    "scope": "regional",
-   "id": 184
+   "id": 181
   },
   {
    "date": "2026-11-18",
@@ -2221,7 +2185,7 @@
    "prefs": "",
    "search_prefs": "徳島県",
    "scope": "regional",
-   "id": 185
+   "id": 182
   },
   {
    "date": "2026-11-18",
@@ -2233,7 +2197,7 @@
    "prefs": "岩手県",
    "search_prefs": "福井県",
    "scope": "regional",
-   "id": 186
+   "id": 183
   },
   {
    "date": "2026-11-18",
@@ -2245,7 +2209,19 @@
    "prefs": "",
    "search_prefs": "広島県",
    "scope": "regional",
-   "id": 187
+   "id": 184
+  },
+  {
+   "date": "2026-11-18",
+   "title": "１０月訪日客３９１万、単月最多",
+   "source": "下野新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tRUVZd2Flc09Wb3lINWJ2TG9aUTg4ZmVaZnRtdXFhb1RpN29QQ2dvTE1YMWp5bzlRWEQ3cFRFWTNqNkN3dHJhdmZqRUJ2V2VsYWhZRXdaUE9VUEE?oc=5",
+   "sentiment": null,
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "栃木県",
+   "scope": "regional",
+   "id": 185
   },
   {
    "date": "2026-11-18",
@@ -2257,7 +2233,7 @@
    "prefs": "",
    "search_prefs": "徳島県",
    "scope": "regional",
-   "id": 188
+   "id": 186
   },
   {
    "date": "2026-11-18",
@@ -2269,19 +2245,7 @@
    "prefs": "",
    "search_prefs": "山梨県",
    "scope": "regional",
-   "id": 189
-  },
-  {
-   "date": "2026-11-18",
-   "title": "大韓航空が日本の四国地方の徳島県に向かうチャーター機を運航する。 来年1月30日から計9回だ。",
-   "source": "매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lamh5ZTdxeXFRb2dVRGVnRHFQaV9rYmRzR05fR3NsTS1qTEEyWlFEV1Z6am5fNkczYjhvM09NM2RRZG9hTzJBRE5VUHRZYm1DX1E?oc=5",
-   "sentiment": null,
-   "category": "航空",
-   "prefs": "徳島県",
-   "search_prefs": "徳島県",
-   "scope": "regional",
-   "id": 190
+   "id": 187
   },
   {
    "date": "2026-11-18",
@@ -2293,7 +2257,7 @@
    "prefs": "",
    "search_prefs": "鳥取県・島根県・山口県",
    "scope": "regional",
-   "id": 191
+   "id": 188
   },
   {
    "date": "2026-11-18",
@@ -2305,19 +2269,7 @@
    "prefs": "鳥取県",
    "search_prefs": "鳥取県",
    "scope": "regional",
-   "id": 192
-  },
-  {
-   "date": "2026-11-18",
-   "title": "【独自調査】2026年最新：外国人に人気の飲食店ランキング［なんば・心斎橋編］1位は「焼肉 麓の宮 なんば心斎橋筋店」！| インバウンド人気飲食店ランキング #インバウンド #MEO | 株式会社movのプレスリリース",
-   "source": "PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04akp5OHJ3OUNqSVpjVzhQdzdNTkUwZU1KOWJMa2JXSFZmeUVjVy00bkZ5SklzY1JIVU00WnQxTUZEZmRvWlh2UEhwVE00Q2t6RHA1eUMwS0lndWN3c1JGRFEyc1ZoYVViZnc?oc=5",
-   "sentiment": null,
-   "category": "体験",
-   "prefs": "",
-   "search_prefs": "徳島県",
-   "scope": "regional",
-   "id": 193
+   "id": 189
   },
   {
    "date": "2026-11-18",
@@ -2329,7 +2281,7 @@
    "prefs": "島根県",
    "search_prefs": "島根県",
    "scope": "regional",
-   "id": 194
+   "id": 190
   },
   {
    "date": "2026-11-18",
@@ -2341,31 +2293,7 @@
    "prefs": "島根県",
    "search_prefs": "島根県",
    "scope": "regional",
-   "id": 195
-  },
-  {
-   "date": "2026-11-18",
-   "title": "「渋滞で家に帰れない…」人口の約300倍の観光客が殺到！ 奈良県・曽爾村「狂騒の現地ルポ」（FRIDAY）",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mTk1hMk02OE11bUg2ZHlfTkxyZHo1OGxldHJqZW9vcmQ0dngzaHRKVXNSR1hKNHFzZ2FRMW4zZFVCS2REekZGV0J6NG5nTnNCbUZaX2dNNkV4TmRvdHhyZ2c3dUhGWXBDVWV1Ym9hUFhIN3RGQVkzS08tSDIyNms?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "奈良県",
-   "search_prefs": "奈良県",
-   "scope": "regional",
-   "id": 196
-  },
-  {
-   "date": "2026-11-18",
-   "title": "「渋滞で家に帰れない…」人口の約300倍の観光客が殺到！ 奈良県・曽爾村「狂騒の現地ルポ」 (FRIDAY)",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeF9hN01SWk1KWXRSVXJzVUIzVmtJbnlTRlVJcU40dXVFOVQ2NmNLbkdtVXpRZmNia2dqUUFmNjJIbHZ6NTZHX3NuNTQxUWEzVTk3QmRTR3ZEaXg4UXROYjM2RWtWdE1URFFXUW1FX3VRR3RvekpTcV9veXQxemlzZnJwMk83QnJXVE1NYkN3?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "奈良県",
-   "search_prefs": "奈良県",
-   "scope": "regional",
-   "id": 197
+   "id": 191
   },
   {
    "date": "2026-11-18",
@@ -2375,9 +2303,9 @@
    "sentiment": null,
    "category": "交通",
    "prefs": "島根県・広島県",
-   "search_prefs": "秋田県・広島県",
+   "search_prefs": "広島県",
    "scope": "regional",
-   "id": 198
+   "id": 192
   },
   {
    "date": "2026-11-18",
@@ -2389,31 +2317,19 @@
    "prefs": "大阪府",
    "search_prefs": "",
    "scope": "regional",
-   "id": 199
-  },
-  {
-   "date": "2026-11-18",
-   "title": "高市総理「台湾有事」巡る発言から1年　反発続き中国人観光客“60%超”減少も　関西観光業は「欧米などの観光客で“穴が埋まった”」と専門家　IR開業など控え「関係修復と人材確保など“受け皿”整備必要」",
-   "source": "ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwVlZXVm1MMkc5VWR2TjQ4QmlvVjdJOVd2Y3RJVXZqU2lLQjlJOWNaYVN2WVJaNjZuaWlrOTlBMEJzYnJBMGMwMWtTMXBaYUtQNlF4SERXNFBTVE9tdHBwazZXYlNtcV9LU29tZVhFLXcxbC1lY195N0lR0gF_QVVfeXFMUDhQdmlwczVRX0szRFMwdFQ4R3VZbmtCcjdjbXJZeWJZYVVvUzVoTXF3VEx2WkRNVk1GbTVDVFFLTVdXQzhwdnhiWFdyRER1SUowOGJnemgzQkFndmtNZDNMc1BxcVNyY0RRWVBiMEtXWTdjbHo0bklkRE41NjFCQQ?oc=5",
-   "sentiment": null,
-   "category": "統計",
-   "prefs": "",
-   "search_prefs": "山口県",
-   "scope": "regional",
-   "id": 200
+   "id": 193
   },
   {
    "date": "2026-11-17",
-   "title": "インバウンドを山陰・瀬戸内へ「アドベンチャートラベル」モニターツアーで魅力をPR（島根）（TSKさんいん中央テレビ）",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OQzFFdXRmUWhnSW9TWEdQZHdzakJ5WkJPblNndkZEUkRvNFFQaHl5OHJPamVoNUhzdDIyZlRxVlZmVnNvZkJQNTVyaV8za2ZZUlZfc2ZHY0pFRi00OVlRS2xBRHRmMm1YVFF5WUU5NU41OFFuVkt5R3pnbVVVdlU?oc=5",
+   "title": "インバウンドを山陰・瀬戸内へ「アドベンチャートラベル」モニターツアーで魅力をPR（島根）",
+   "source": "FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kdzR3RElYenFiTU9DVnF0YVo5OWNsaC1OcEJkTllkcjhtNHJEV1lOeEhqWmpyWDUyM21VM05MRExrS3NKeVB3eWEwUl8zQQ?oc=5",
    "sentiment": null,
    "category": "プロモーション",
    "prefs": "島根県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 201
+   "id": 194
   },
   {
    "date": "2026-11-17",
@@ -2425,19 +2341,19 @@
    "prefs": "北海道",
    "search_prefs": "北海道",
    "scope": "regional",
-   "id": 202
+   "id": 195
   },
   {
    "date": "2026-11-17",
-   "title": "京都市バス、二重価格へ条例案 全国初、市民は観光客より安く",
-   "source": "秋田魁新報電子版",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wUlBMdklLZWNySHFGMjVYUTFLLUNnd3Z6dERKUURDQ2NXcndEcHJhR1Q3aDVpMlNCRWE3a3NyQTBwRjFNZ0U1U0ZXNExINFhveS1ONFRLRUQxRXF5cDA3eHhn?oc=5",
+   "title": "ふらの観光協会会長 石平清美さん（６６）",
+   "source": "北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVEh5eGpVTDBzODRUYm85cTBxM2NYdVgycVdSQUNXSldlRTA4Mk1EZ1F6NkZXSjR3NUU2YWZKMFhJWlJ6RWVSbzNENU9oVXEwZ3h6NzlVYnhib0J5bk1TQlF0Q19kMDQyd3RDWnBzZnZaRHZWajBCamJYMWxTaktPV1psMWMxMTN6Y01jeXJBeUhDeFp0cEYxRXpURXBmRE1sODd1U2JnTE5aaFVJejZ1QW53TldFTDlOLUlfZV94WEZrUkkyN2QtMTFqNFhmWS1wRC1jM3NTaHpNdVFoTjlHZFowRi14WkxOeFQxdnFJZGRZQmhnOU5HMXhrRlJucENaZmtxZkt2aU9HUzhQU0kzNkxrYXZEenRCVGQ1Vi1nVHQ0RERzcHhfMHNfdThvOThMN2toVWEydEdWVUh2SU5ZSzlzZVl3MVZIWGliRQ?oc=5",
    "sentiment": null,
-   "category": "オーバーツーリズム",
-   "prefs": "京都府",
-   "search_prefs": "秋田県",
+   "category": "その他",
+   "prefs": "",
+   "search_prefs": "北海道",
    "scope": "regional",
-   "id": 203
+   "id": 196
   },
   {
    "date": "2026-11-17",
@@ -2449,7 +2365,7 @@
    "prefs": "徳島県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 204
+   "id": 197
   },
   {
    "date": "2026-11-17",
@@ -2461,7 +2377,7 @@
    "prefs": "徳島県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 205
+   "id": 198
   },
   {
    "date": "2026-11-17",
@@ -2473,7 +2389,7 @@
    "prefs": "山梨県・静岡県",
    "search_prefs": "山梨県",
    "scope": "regional",
-   "id": 206
+   "id": 199
   },
   {
    "date": "2026-11-17",
@@ -2485,19 +2401,7 @@
    "prefs": "福島県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 207
-  },
-  {
-   "date": "2026-11-16",
-   "title": "山口市内在住の外国人4人が「鷺流狂言」を体験～新たな旅行商品の造成に向けたモニターツアー（2026年11月16日掲載）",
-   "source": "日テレNEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1RGR3ekNTT2JVVHdTazJCT2RTWmdsd1licWdlNG4tYTB2WnlCZjV4X0E0NlJ1UEZPbXl5RlU0RDBWMmtMNzhVZHpqYmVaOWF3RFU0bTBLc2NCekc4MFlMM0VCUGR6WDQxVGpPUlUyaHd6OFE3aGxyV2o2QzBWYms?oc=5",
-   "sentiment": null,
-   "category": "体験",
-   "prefs": "山口県",
-   "search_prefs": "山口県",
-   "scope": "regional",
-   "id": 208
+   "id": 200
   },
   {
    "date": "2026-11-16",
@@ -2509,19 +2413,7 @@
    "prefs": "和歌山県",
    "search_prefs": "和歌山県",
    "scope": "regional",
-   "id": 209
-  },
-  {
-   "date": "2026-11-16",
-   "title": "新潟県が米『Condé Nast Traveler（コンデナストトラベラー）』「2027年に行くべき旅行先27選」に日本から唯一のランクイン",
-   "source": "Glocal Mission Times",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zS21DZFJyeHRBQlY4NVlKc1lWdVdTa1JhdG5ZTUJHR05tYm1wZE5YcjRwWTlhY1poTGhjVU1xX3htS2luLVB3SnVXNUhGbHFOLXhNRUZHMA?oc=5",
-   "sentiment": null,
-   "category": "その他",
-   "prefs": "新潟県",
-   "search_prefs": "三重県",
-   "scope": "regional",
-   "id": 210
+   "id": 201
   },
   {
    "date": "2026-11-16",
@@ -2533,7 +2425,7 @@
    "prefs": "東京都",
    "search_prefs": "",
    "scope": "regional",
-   "id": 211
+   "id": 202
   },
   {
    "date": "2026-11-16",
@@ -2545,31 +2437,7 @@
    "prefs": "",
    "search_prefs": "山梨県",
    "scope": "regional",
-   "id": 212
-  },
-  {
-   "date": "2026-11-15",
-   "title": "電動キックボードで裏道巡り 大阪ツアーが訪日客に好評（FINDERS）",
-   "source": "Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3c1JfWmpKeFlPRUIyanpCMm1JQTZ5dzh2VlRjdC1PRThoMzVJekhiVV9lLUdNQ0FLaWtOT29rOW5rTlJrY1J4MnNldkotZFNOSTY0NnBVOFZYcjJkRVB5UExtNzdnRGlkbS1OY2ZfNDlHYWhrejhlQ1lBbHNMc2c?oc=5",
-   "sentiment": null,
-   "category": "体験",
-   "prefs": "大阪府",
-   "search_prefs": "",
-   "scope": "regional",
-   "id": 213
-  },
-  {
-   "date": "2026-11-14",
-   "title": "出雲大社周辺に縁結びカフェや宿泊施設が続々、滞在型観光の動き進む",
-   "source": "中国新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13QTA0T2d5M2IyODRiUVFfWlNydVl4M01CVG5EalpoRERaeldSZ3hVMjdHWGJpTjRWQ3hNbmJIMjRaRFBIcDJJQUVoNWlUbXg3MVRLWVJtQ1NQZw?oc=5",
-   "sentiment": null,
-   "category": "宿泊",
-   "prefs": "",
-   "search_prefs": "山口県",
-   "scope": "regional",
-   "id": 214
+   "id": 203
   },
   {
    "date": "2026-11-14",
@@ -2581,19 +2449,19 @@
    "prefs": "静岡県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 215
+   "id": 204
   },
   {
    "date": "2026-11-13",
-   "title": "長崎、佐賀12市町とHTB設立の法人「肥前」 インバウンド向け食観光の人材育成講座が始動",
-   "source": "47NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sVl82R1hvVHlrcUVYZTNSQW5oQlo2SDd1X0RBdmdsUWM4VkhNb0Fwd1lRMF9QbG53RVRRNEFVWHpYVTVUV21BZk1Ycw?oc=5",
+   "title": "訪日客の体験予約、スペインは約2割が当日 JTB BÓKUN分析、地方での予約増も",
+   "source": "ツーリズムメディアサービス",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTWVVRRllUOEZWRGNsTGl6U2RIQ2hzRHQzeDgzdHd5dWVqZlBiSTlFbl9DVG9fRTlOVVNjcGJnZG5sYVF5OGNYNmJR?oc=5",
    "sentiment": null,
-   "category": "イベント",
-   "prefs": "佐賀県・長崎県",
-   "search_prefs": "山口県",
+   "category": "体験",
+   "prefs": "",
+   "search_prefs": "三重県",
    "scope": "regional",
-   "id": 216
+   "id": 205
   },
   {
    "date": "2026-11-12",
@@ -2605,7 +2473,7 @@
    "prefs": "神奈川県・京都府",
    "search_prefs": "和歌山県",
    "scope": "regional",
-   "id": 217
+   "id": 206
   },
   {
    "date": "2026-11-11",
@@ -2617,19 +2485,7 @@
    "prefs": "東京都",
    "search_prefs": "",
    "scope": "regional",
-   "id": 218
-  },
-  {
-   "date": "2026-11-11",
-   "title": "開催まで1週間。観光庁長官、静岡県知事、防災庁 事務次官ら約70名が登壇。 国内最大級のシェアリングエコノミーカンファレンス「SHARE SUMMIT 2026」11月17日（火）開催",
-   "source": "Glocal Mission Times",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMGM0NVowa0NGYU95ZEJ2cG54MllMeFdPanRZalhtUDdaNXFlV3VfeU9UeXpLMS11cGNtcnppc0VfRUhCUzdKOUZnQWJleDFjVVk2S1V3?oc=5",
-   "sentiment": null,
-   "category": "政策",
-   "prefs": "静岡県",
-   "search_prefs": "",
-   "scope": "regional",
-   "id": 219
+   "id": 207
   },
   {
    "date": "2026-11-11",
@@ -2641,7 +2497,7 @@
    "prefs": "徳島県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 220
+   "id": 208
   },
   {
    "date": "2026-11-10",
@@ -2653,7 +2509,7 @@
    "prefs": "香川県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 221
+   "id": 209
   },
   {
    "date": "2026-11-10",
@@ -2665,7 +2521,7 @@
    "prefs": "福岡県・大分県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 222
+   "id": 210
   },
   {
    "date": "2026-11-10",
@@ -2677,7 +2533,7 @@
    "prefs": "香川県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 223
+   "id": 211
   },
   {
    "date": "2026-11-10",
@@ -2689,7 +2545,7 @@
    "prefs": "愛知県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 224
+   "id": 212
   },
   {
    "date": "2026-11-10",
@@ -2701,7 +2557,7 @@
    "prefs": "北海道",
    "search_prefs": "",
    "scope": "regional",
-   "id": 225
+   "id": 213
   },
   {
    "date": "2026-11-09",
@@ -2713,7 +2569,7 @@
    "prefs": "島根県・広島県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 226
+   "id": 214
   },
   {
    "date": "2026-11-09",
@@ -2725,7 +2581,7 @@
    "prefs": "石川県",
    "search_prefs": "",
    "scope": "regional",
-   "id": 227
+   "id": 215
   }
  ]
 }
